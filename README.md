@@ -26,9 +26,9 @@ Contributions are always welcome!
 
 #### Culture
 * [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
-* [Keys To SRE](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre)
+* [Keys To SRE by Ben Treynor](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre)
 * [Google SRE Resources](https://landing.google.com/sre/resources.html)
-* [Notes from Production Engineering](https://www.usenix.org/conference/srecon15/program/presentation/canahuati)
+* [Notes from Production Engineering by Pedro Canahuati](https://www.usenix.org/conference/srecon15/program/presentation/canahuati)
 * [PostOps: Recovery from Operations](https://www.usenix.org/conference/srecon15europe/program/presentation/underwood)
 * [Love DevOps? Wait 'till you meet SRE](https://www.atlassian.com/it-service/site-reliability-engineering-sre)
 * [How Google Does Planet-Scale Engineering for Planet-Scale Infra](https://www.youtube.com/watch?v=H4vMcD7zKM0)
