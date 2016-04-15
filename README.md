@@ -67,6 +67,7 @@ Contributions are always welcome!
 
 #### Monitoring
 * [The Evolution of Monitoring Systems at Google - Tony Rippy](https://vimeo.com/131484321)
+* [Monitoring without Infrastructure @ Airbnb](https://www.usenix.org/conference/srecon15/program/presentation/serebryany)
 
 #### On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
