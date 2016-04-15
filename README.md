@@ -63,7 +63,7 @@ Contributions are always welcome!
 * [My Philosophy on Alerting by Rob Ewaschuk](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview#)
 
 #### Monitoring
-* Add your favorite resources
+* [Tony Rippy - The Evolution of Monitoring Systems at Google](https://vimeo.com/131484321)
 
 #### On-Call
 * Add your favorite resources
