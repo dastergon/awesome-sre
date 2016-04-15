@@ -66,7 +66,7 @@ Contributions are always welcome!
 * [Tony Rippy - The Evolution of Monitoring Systems at Google](https://vimeo.com/131484321)
 
 #### On-Call
-* Add your favorite resources
+* [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
 
 #### Post-Mortem
 * Add your favorite resources
