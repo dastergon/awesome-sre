@@ -76,6 +76,9 @@ Contributions are always welcome!
 #### Capacity Planning
 * Add your favorite resources
 
+#### Service Level Agreement
+* [SLA Aware Maintenance for Operators - Joe Smith](https://www.youtube.com/watch?v=tZ0-SISvCis)
+
 #### Presentations
 * [Performance Checklists for SREs](http://www.slideshare.net/brendangregg/srecon-2016-performance-checklists-for-sres)
 * [Engineering Reliability into Web Sites: Google SRE](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32583.pdf)
