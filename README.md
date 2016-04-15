@@ -70,7 +70,7 @@ Contributions are always welcome!
 * [Inside Atlassian: how IT & SRE use ChatOps to run incident management](http://blogs.atlassian.com/2016/02/inside-atlassian-sre-use-chatops-run-incident-management/)
 
 #### Post-Mortem
-* Add your favorite resources
+* [A collection of post-mortems](https://github.com/danluu/post-mortems)
 
 #### Capacity Planning
 * Add your favorite resources
