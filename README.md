@@ -109,6 +109,7 @@ Contributions are always welcome!
 * [Alice Goldfuss](https://twitter.com/alicegoldfuss)
 * [Brendan Gregg](https://twitter.com/brendangregg)
 * [Jonah horowitz](https://twitter.com/jonahhorowitz)
+* [Niall Murphy](https://twitter.com/niallm)
 * [SREcon](https://twitter.com/SREcon)
 * [Thomas A. Limoncelli](https://twitter.com/yesthattom)
 * [Todd Underwood](https://twitter.com/tmu)
