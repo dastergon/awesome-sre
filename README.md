@@ -67,6 +67,7 @@ Contributions are always welcome!
 
 #### On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
+* [Inside Atlassian: how IT & SRE use ChatOps to run incident management](http://blogs.atlassian.com/2016/02/inside-atlassian-sre-use-chatops-run-incident-management/)
 
 #### Post-Mortem
 * Add your favorite resources
