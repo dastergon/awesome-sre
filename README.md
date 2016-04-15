@@ -65,7 +65,7 @@ Contributions are always welcome!
 * [My Philosophy on Alerting by Rob Ewaschuk](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview#)
 
 #### Monitoring
-* [Tony Rippy - The Evolution of Monitoring Systems at Google](https://vimeo.com/131484321)
+* [The Evolution of Monitoring Systems at Google - Tony Rippy](https://vimeo.com/131484321)
 
 #### On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
