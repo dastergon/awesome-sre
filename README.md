@@ -110,6 +110,7 @@ Contributions are always welcome!
 #### Twitter
 * [Alice Goldfuss](https://twitter.com/alicegoldfuss)
 * [Brendan Gregg](https://twitter.com/brendangregg)
+* [Jennifer Petoff](https://twitter.com/jennski)
 * [Jonah horowitz](https://twitter.com/jonahhorowitz)
 * [Niall Murphy](https://twitter.com/niallm)
 * [SREcon](https://twitter.com/SREcon)
