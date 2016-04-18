@@ -102,6 +102,7 @@ Contributions are always welcome!
 * [Everything Sysadmin](http://everythingsysadmin.com/)
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html)
 * [rachelbythebay](https://rachelbythebay.com/w/)
+* [SRE Weekly](https://sreweekly.com/)
 
 #### Conferences
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925)
