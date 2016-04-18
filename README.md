@@ -71,6 +71,7 @@ Contributions are always welcome!
 * [My Philosophy on Alerting by Rob Ewaschuk](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview#)
 
 #### Monitoring
+* [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
 * [The Evolution of Monitoring Systems at Google - Tony Rippy](https://vimeo.com/131484321)
 * [Monitoring without Infrastructure @ Airbnb](https://www.usenix.org/conference/srecon15/program/presentation/serebryany)
 
