@@ -89,6 +89,8 @@ Contributions are always welcome!
 
 #### Service Level Agreement
 * [SLA Aware Maintenance for Operators - Joe Smith](https://www.youtube.com/watch?v=tZ0-SISvCis)
+* [If It's in the Cloud, Get It on Paper: Cloud Computing Contract Issues](http://www.wired.com/insights/2011/12/service-level-agreements-in-the-cloud-who-cares/)
+* [Service Level Agreements in the Cloud: Who cares?](http://www.wired.com/insights/2011/12/service-level-agreements-in-the-cloud-who-cares/)
 
 #### Presentations
 * [Performance Checklists for SREs](http://www.slideshare.net/brendangregg/srecon-2016-performance-checklists-for-sres)
