@@ -19,7 +19,7 @@ Contributions are always welcome!
 - [Post-Mortem](#post-mortem)
 - [Capacity Planning](#capacity-planning)
 - [Service Level Agreement](#service-level-agreement)
-- [Presentations](#presentations)
+- [Performance](#performance)
 - [Articles](#articles)
 - [Blogs](#blogs)
 - [Conferences](#conferences)
@@ -44,6 +44,8 @@ Contributions are always welcome!
 * [Transactional System Administration Is Killing Us and Must be Stopped](https://www.usenix.org/conference/lisa15/conference-program/presentation/limoncelli)
 * [Maslow's hierarchy of SRE needs](https://plus.google.com/+lizthegrey/posts/MLAJFVyEb2f)
 * [PostOps: A Non-Surgical Tale of Software, Fragility, and Reliability](https://www.usenix.org/conference/lisa13/technical-sessions/plenary/underwood)
+* [Engineering Reliability into Web Sites: Google SRE](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32583.pdf)
+* [From SysAdmin to Netflix SRE](https://www.socallinuxexpo.org/sites/default/files/presentations/Scale%20x14%20Slides.pdf)
 
 #### Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
@@ -66,6 +68,7 @@ Contributions are always welcome!
 * [Push our limits - reliability testing at Twitter](https://blog.twitter.com/2014/push-our-limits-reliability-testing-at-twitter)
 * [The Verification of a Distributed System by Caitie McCaffrey](http://queue.acm.org/detail.cfm?ref=rss&id=2889274)
 * [Weathering the Unexpected](http://queue.acm.org/detail.cfm?id=2371516)
+* [The Remediation Ballet](http://files.sans.org/summit/Threat_Hunting_Incident_Response_Summit_2016/PDFs/The-Remediation-Ballet-Performing-the-Delicate-Dance-of-Clean-Up-Matt-Linton-Google.pdf)
 
 #### Alerting
 * [My Philosophy on Alerting by Rob Ewaschuk](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview#)
@@ -92,10 +95,8 @@ Contributions are always welcome!
 * [If It's in the Cloud, Get It on Paper: Cloud Computing Contract Issues](http://www.wired.com/insights/2011/12/service-level-agreements-in-the-cloud-who-cares/)
 * [Service Level Agreements in the Cloud: Who cares?](http://www.wired.com/insights/2011/12/service-level-agreements-in-the-cloud-who-cares/)
 
-#### Presentations
+#### Performance
 * [Performance Checklists for SREs](http://www.slideshare.net/brendangregg/srecon-2016-performance-checklists-for-sres)
-* [Engineering Reliability into Web Sites: Google SRE](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32583.pdf)
-* [From SysAdmin to Netflix SRE](https://www.socallinuxexpo.org/sites/default/files/presentations/Scale%20x14%20Slides.pdf)
 
 #### Articles
 * [Here’s How Google Makes Sure It (Almost) Never Goes Down](http://www.wired.com/2016/04/google-ensures-services-almost-never-go/)
