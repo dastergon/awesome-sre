@@ -130,6 +130,7 @@ Contributions are always welcome!
 * [Jennifer Petoff](https://twitter.com/jennski)
 * [Jonah horowitz](https://twitter.com/jonahhorowitz)
 * [Niall Murphy](https://twitter.com/niallm)
+* [Nick Craver](https://twitter.com/Nick_Craver)
 * [SREcon](https://twitter.com/SREcon)
 * [Thomas A. Limoncelli](https://twitter.com/yesthattom)
 * [Todd Underwood](https://twitter.com/tmu)
