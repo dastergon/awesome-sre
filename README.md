@@ -128,6 +128,7 @@ Contributions are always welcome!
 * [Alice Goldfuss](https://twitter.com/alicegoldfuss)
 * [Brendan Gregg](https://twitter.com/brendangregg)
 * [Jennifer Petoff](https://twitter.com/jennski)
+* [Jesse DB](https://twitter.com/JesseDearing)
 * [Jonah horowitz](https://twitter.com/jonahhorowitz)
 * [Niall Murphy](https://twitter.com/niallm)
 * [Nick Craver](https://twitter.com/Nick_Craver)
