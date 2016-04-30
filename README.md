@@ -101,6 +101,7 @@ Contributions are always welcome!
 * [Performance Checklists for SREs](http://www.slideshare.net/brendangregg/srecon-2016-performance-checklists-for-sres)
 
 #### Programming
+* [Go Language for Ops and Site Reliability Engineering](http://www.oreilly.com/pub/e/2712)
 * [Go for SREs using Python](https://www.usenix.org/sites/default/files/conference/protected-files/srecon16_slides_hamilton.pdf)
 
 #### Articles
