@@ -47,6 +47,7 @@ Contributions are always welcome!
 * [Engineering Reliability into Web Sites: Google SRE](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32583.pdf)
 * [From SysAdmin to Netflix SRE](https://www.socallinuxexpo.org/sites/default/files/presentations/Scale%20x14%20Slides.pdf)
 * [SRE: An incomplete guide to cultural Narnia](http://anthonycaiafa.com/2016/04/10/sre-cultural-narnia/)
+* [Putting Together Great SRE Teams](https://www.usenix.org/conference/srecon16/program/presentation/krishnan)
 
 #### Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
@@ -62,6 +63,7 @@ Contributions are always welcome!
 * [Hiring SREs at LinkedIn](https://engineering.linkedin.com/engineering-culture/hiring-sres-linkedin)
 
 #### Reliability
+* [The Realities of the Job of Delivering Reliability](https://www.usenix.org/conference/srecon16/program/presentation/kroll)
 * [Fail at Scale by Ben Maurer](http://queue.acm.org/detail.cfm?id=2839461)
 * [Embracing Failure: Fault-Injection and Service Reliability](https://www.youtube.com/watch?v=wrY7XoOnysg)
 * [10 Years of Crashing Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/krishnan)
@@ -98,7 +100,7 @@ Contributions are always welcome!
 * [Service Level Agreements in the Cloud: Who cares?](http://www.wired.com/insights/2011/12/service-level-agreements-in-the-cloud-who-cares/)
 
 #### Performance
-* [Performance Checklists for SREs](http://www.slideshare.net/brendangregg/srecon-2016-performance-checklists-for-sres)
+* [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
 
 #### Programming
 * [Go Language for Ops and Site Reliability Engineering](http://www.oreilly.com/pub/e/2712)
