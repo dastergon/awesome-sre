@@ -100,6 +100,9 @@ Contributions are always welcome!
 #### Performance
 * [Performance Checklists for SREs](http://www.slideshare.net/brendangregg/srecon-2016-performance-checklists-for-sres)
 
+#### Programming
+* [Go for SREs using Python](https://www.usenix.org/sites/default/files/conference/protected-files/srecon16_slides_hamilton.pdf)
+
 #### Articles
 * [Here’s How Google Makes Sure It (Almost) Never Goes Down](http://www.wired.com/2016/04/google-ensures-services-almost-never-go/)
 * [Are site reliability engineers the next data scientists?](http://techcrunch.com/2016/03/02/are-site-reliability-engineers-the-next-data-scientists/)
