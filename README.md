@@ -92,7 +92,7 @@ Contributions are always welcome!
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
 
 #### Capacity Planning
-* Add your favorite resources
+* [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf)
 
 #### Service Level Agreement
 * [SLA Aware Maintenance for Operators - Joe Smith](https://www.youtube.com/watch?v=tZ0-SISvCis)
