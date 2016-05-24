@@ -116,8 +116,9 @@ Contributions are always welcome!
 * [Notes on Site Reliability Engineering](http://danluu.com/google-sre-book/)
 
 #### Blogs
-* [Everything Sysadmin](http://everythingsysadmin.com/)
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html)
+* [Everything Sysadmin](http://everythingsysadmin.com/)
+* [High Scalability](http://highscalability.com/)
 * [rachelbythebay](https://rachelbythebay.com/w/)
 * [SRE Weekly](https://sreweekly.com/)
 
