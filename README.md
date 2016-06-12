@@ -125,6 +125,7 @@ Contributions are always welcome!
 #### Conferences
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925)
 * [LISA Conferences](https://www.usenix.org/conferences/byname/5)
+* [SRE Tech Talks](https://developers.google.com/events/sre/)
 
 #### Twitter
 * [Alice Goldfuss](https://twitter.com/alicegoldfuss)
