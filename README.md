@@ -48,6 +48,7 @@ Contributions are always welcome!
 * [From SysAdmin to Netflix SRE](https://www.socallinuxexpo.org/sites/default/files/presentations/Scale%20x14%20Slides.pdf)
 * [SRE: An incomplete guide to cultural Narnia](http://anthonycaiafa.com/2016/04/10/sre-cultural-narnia/)
 * [Putting Together Great SRE Teams](https://www.usenix.org/conference/srecon16/program/presentation/krishnan)
+* [Work at Google: Meet our Production Engineers for Site Reliability Hangout on Air](https://www.youtube.com/watch?v=bwt6TZjefGM)
 
 #### Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
