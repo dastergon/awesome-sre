@@ -2,12 +2,12 @@
 
 A curated list of awesome Site Reliability and Production Engineering resources.
 
-#### Contributing
+## Contributing
 
 Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 Contributions are always welcome!
 
-#### Contents
+## Contents
 - [Culture](#culture)
 - [Education](#education)
 - [Books](#books)
@@ -25,7 +25,7 @@ Contributions are always welcome!
 - [Conferences](#conferences)
 - [Twitter](#twitter)
 
-#### Culture
+## Culture
 * [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
 * [Keys To SRE by Ben Treynor](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre)
 * [Google SRE Resources](https://landing.google.com/sre/resources.html)
@@ -50,20 +50,20 @@ Contributions are always welcome!
 * [Putting Together Great SRE Teams](https://www.usenix.org/conference/srecon16/program/presentation/krishnan)
 * [Work at Google: Meet our Production Engineers for Site Reliability Hangout on Air](https://www.youtube.com/watch?v=bwt6TZjefGM)
 
-#### Education
+## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
 * [From Zero to Hero: Recommended Practices for Training your Ever-Evolving SRE Teams](https://www.usenix.org/conference/srecon15/program/presentation/widdowson)
 * [New to an SRE team?](http://anthonycaiafa.com/2016/04/27/new-to-a-team/)
 
-#### Books
+## Books
 * [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html)
 * [The Practice Of Cloud System Administration: Designing and Operating Large Distributed Systems](http://the-cloud-book.com/)
 
-#### Hiring
+## Hiring
 * [SRE Hiring](https://www.usenix.org/conference/srecon15/program/presentation/fong)
 * [Hiring SREs at LinkedIn](https://engineering.linkedin.com/engineering-culture/hiring-sres-linkedin)
 
-#### Reliability
+## Reliability
 * [The Realities of the Job of Delivering Reliability](https://www.usenix.org/conference/srecon16/program/presentation/kroll)
 * [Fail at Scale by Ben Maurer](http://queue.acm.org/detail.cfm?id=2839461)
 * [Embracing Failure: Fault-Injection and Service Reliability](https://www.youtube.com/watch?v=wrY7XoOnysg)
@@ -77,40 +77,40 @@ Contributions are always welcome!
 * [SRE Hour: Tech Talks by Box & Yelp](https://www.youtube.com/watch?v=YFDwdRVTg4g)
 * [Simplicity: A Prerequisite for Reliability](https://medium.com/production-ready/simplicity-a-prerequisite-for-reliability-8d000f8d18df#.74t9t0em2)
 
-#### Alerting
+## Alerting
 * [My Philosophy on Alerting by Rob Ewaschuk](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview#)
 
-#### Monitoring
+## Monitoring
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
 * [The Evolution of Monitoring Systems at Google - Tony Rippy](https://vimeo.com/131484321)
 * [Monitoring without Infrastructure @ Airbnb](https://www.usenix.org/conference/srecon15/program/presentation/serebryany)
 * [Monitoring distributed systems](https://www.oreilly.com/ideas/monitoring-distributed-systems)
 
-#### On-Call
+## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
 * [Inside Atlassian: how our site reliability engineers do incident management](http://blogs.atlassian.com/2016/02/inside-atlassian-site-reliability-engineers-incident-management/)
 * [Inside Atlassian: how IT & SRE use ChatOps to run incident management](http://blogs.atlassian.com/2016/02/inside-atlassian-sre-use-chatops-run-incident-management/)
 * [Incident Response at Heroku](https://blog.heroku.com/archives/2014/5/9/incident-response-at-heroku)
 
-#### Post-Mortem
+## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
 
-#### Capacity Planning
+## Capacity Planning
 * [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf)
 
-#### Service Level Agreement
+## Service Level Agreement
 * [SLA Aware Maintenance for Operators - Joe Smith](https://www.youtube.com/watch?v=tZ0-SISvCis)
 * [If It's in the Cloud, Get It on Paper: Cloud Computing Contract Issues](http://er.educause.edu/articles/2010/6/if-its-in-the-cloud-get-it-on-paper-cloud-computing-contract-issues)
 * [Service Level Agreements in the Cloud: Who cares?](http://www.wired.com/insights/2011/12/service-level-agreements-in-the-cloud-who-cares/)
 
-#### Performance
+## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
 
-#### Programming
+## Programming
 * [Go Language for Ops and Site Reliability Engineering](http://www.oreilly.com/pub/e/2712)
 * [Go for SREs using Python](https://www.usenix.org/sites/default/files/conference/protected-files/srecon16_slides_hamilton.pdf)
 
-#### Articles
+## Articles
 * [What is SRE (Site Reliability Engineering)?](https://www.oreilly.com/ideas/what-is-sre-site-reliability-engineering)
 * [Here’s How Google Makes Sure It (Almost) Never Goes Down](http://www.wired.com/2016/04/google-ensures-services-almost-never-go/)
 * [Are site reliability engineers the next data scientists?](http://techcrunch.com/2016/03/02/are-site-reliability-engineers-the-next-data-scientists/)
@@ -119,19 +119,19 @@ Contributions are always welcome!
 * [Site reliability engineering kicks rote tasks out of IT ops](http://searchitoperations.techtarget.com/feature/Site-reliability-engineering-kicks-rote-tasks-out-of-IT-ops)
 * [Notes on Site Reliability Engineering](http://danluu.com/google-sre-book/)
 
-#### Blogs
+## Blogs
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html)
 * [Everything Sysadmin](http://everythingsysadmin.com/)
 * [High Scalability](http://highscalability.com/)
 * [rachelbythebay](https://rachelbythebay.com/w/)
 * [SRE Weekly](https://sreweekly.com/)
 
-#### Conferences
+## Conferences
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925)
 * [LISA Conferences](https://www.usenix.org/conferences/byname/5)
 * [SRE Tech Talks](https://developers.google.com/events/sre/)
 
-#### Twitter
+## Twitter
 * [Alice Goldfuss](https://twitter.com/alicegoldfuss)
 * [Brendan Gregg](https://twitter.com/brendangregg)
 * [Caitie McCaffrey](https://twitter.com/caitie)
