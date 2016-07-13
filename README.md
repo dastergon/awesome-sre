@@ -130,6 +130,7 @@ Contributions are always welcome!
 * [High Scalability](http://highscalability.com/) - Technical Blog Posts About Systems Architecture.
 * [rachelbythebay](https://rachelbythebay.com/w/) - Techincal Blog Posts.
 * [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
+* [Production Ready](https://tinyletter.com/production-ready) - A mailing list about building resilient infrastructure and tools.
 
 ## Conferences
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The Official SRE Conference
