@@ -133,24 +133,24 @@ Contributions are always welcome!
 * [Production Ready](https://tinyletter.com/production-ready) - A mailing list about building resilient infrastructure and tools.
 
 ## Conferences
-* [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The Official SRE Conference
-* [LISA Conferences](https://www.usenix.org/conferences/byname/5) - Prominent Conference About SysAdmin/DevOps/SRE
-* [SRE Tech Talks](https://developers.google.com/events/sre/) - SRE Talks Hosted by Google
+* [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The Official SRE Conference.
+* [LISA Conferences](https://www.usenix.org/conferences/byname/5) - Prominent Conference About SysAdmin/DevOps/SRE.
+* [SRE Tech Talks](https://developers.google.com/events/sre/) - SRE Talks Hosted by Google.
 
 ## Twitter
-* [Alice Goldfuss](https://twitter.com/alicegoldfuss) - SRE @ New Relic - Tweets About the SRE Culture
-* [Brendan Gregg](https://twitter.com/brendangregg) - SRE @ Netflix - Technical Resources about Systems, Performance and Site Reliability Engineers
-* [Caitie McCaffrey](https://twitter.com/caitie) - Tweets About Reliability and Distributed Systems
-* [Dave Hahn](https://twitter.com/relix42) - SRE @ Netflix
-* [Highscal](https://twitter.com/highscal) - Feed of the High Scalability Blog
+* [Alice Goldfuss](https://twitter.com/alicegoldfuss) - SRE @ New Relic - Tweets About the SRE Culture.
+* [Brendan Gregg](https://twitter.com/brendangregg) - SRE @ Netflix - Technical Resources about Systems, Performance and Site Reliability Engineers.
+* [Caitie McCaffrey](https://twitter.com/caitie) - Tweets About Reliability and Distributed Systems.
+* [Dave Hahn](https://twitter.com/relix42) - SRE @ Netflix.
+* [Highscal](https://twitter.com/highscal) - Feed of the High Scalability Blog.
 * [Jennifer Petoff](https://twitter.com/jennski) - Program Manager for Google's Site Reliability Engineering team.
-* [Jesse DB](https://twitter.com/JesseDearing) - SRE @ New Relic
-* [Jonah horowitz](https://twitter.com/jonahhorowitz) - SRE @ Netflix
-* [Niall Murphy](https://twitter.com/niallm) - SRE @ Google
-* [Nick Craver](https://twitter.com/Nick_Craver) - SRE @ StackOverflow
-* [SREBook](https://twitter.com/SREBook) - The Official Twitter Account of Site Reliability Engineering Book
-* [SREcon](https://twitter.com/SREcon) - SRECon's Official Twitter Account
-* [Thomas A. Limoncelli](https://twitter.com/yesthattom) - Prominent Author About SysAdmin/DevOps/SRE
-* [Todd Underwood](https://twitter.com/tmu) - SRE @ Google
+* [Jesse DB](https://twitter.com/JesseDearing) - SRE @ New Relic.
+* [Jonah horowitz](https://twitter.com/jonahhorowitz) - SRE @ Netflix.
+* [Niall Murphy](https://twitter.com/niallm) - SRE @ Google.
+* [Nick Craver](https://twitter.com/Nick_Craver) - SRE @ StackOverflow.
+* [SREBook](https://twitter.com/SREBook) - The Official Twitter Account of Site Reliability Engineering Book.
+* [SREcon](https://twitter.com/SREcon) - SRECon's Official Twitter Account.
+* [Thomas A. Limoncelli](https://twitter.com/yesthattom) - Prominent Author About SysAdmin/DevOps/SRE.
+* [Todd Underwood](https://twitter.com/tmu) - SRE @ Google.
 * [Twitter SRE](https://twitter.com/TwitterSRE) - The Official Twitter Account of Twitter's SRE team.
-* [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account
+* [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
