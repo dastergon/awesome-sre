@@ -55,6 +55,7 @@ Contributions are always welcome!
 * [Engineering Reliability into Web Sites: Google SRE](https://research.google.com/pubs/pub32583.html)
 * [DEVOPS & SRE AMA - Building High Performance Organizations](http://pages.catchpoint.com/DEVOPS-SRE-AMA-mkty.html)
 * [Site Reliability Engineering with Paul Newson](https://www.gcppodcast.com/post/episode-38-site-reliability-engineering-with-paul-newson/)
+* [How SysAdmins Devalue Themselves](https://queue.acm.org/detail.cfm?id=2891413)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
