@@ -166,7 +166,7 @@ Contributions are always welcome!
 * [Dave Hahn](https://twitter.com/relix42) - SRE @ Netflix.
 * [Highscal](https://twitter.com/highscal) - Feed of the High Scalability Blog.
 * [Jennifer Petoff](https://twitter.com/jennski) - Program Manager for Google's Site Reliability Engineering team.
-* [Jesse DB](https://twitter.com/JesseDearing) - SRE @ New Relic.
+* [Jesse Dearing](https://twitter.com/JesseDearing) - SRE @ InVisionApp.
 * [Jonah horowitz](https://twitter.com/jonahhorowitz) - SRE @ Netflix.
 * [Niall Murphy](https://twitter.com/niallm) - SRE @ Google.
 * [Nick Craver](https://twitter.com/Nick_Craver) - SRE @ StackOverflow.
