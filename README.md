@@ -119,6 +119,8 @@ Contributions are always welcome!
 * [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 * [A Tale of Postmortems](https://blog.box.com/blog/a-tale-of-postmortems/)
 * [Building a Blameless Post-Mortem Culture with Jason Hand](http://runasradio.com/Shows/Show/486)
+* [The infinite hows](https://www.oreilly.com/ideas/the-infinite-hows)
+* [Failure is Always An Option: How a Blameless Culture Leads to Better Results](https://victorops.com/blog/blameless-culture/)
 
 ## Capacity Planning
 * [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf)
