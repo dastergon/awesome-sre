@@ -25,7 +25,7 @@ Contributions are always welcome!
 - [Performance](#performance)
 - [Articles](#articles)
 - [Blogs](#blogs)
-- [Conferences](#conferences)
+- [Conferences & Meetups](#conferences--meetups)
 - [Twitter](#twitter)
 
 ## Culture
