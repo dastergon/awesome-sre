@@ -168,6 +168,7 @@ Contributions are always welcome!
 * [LISA Conferences](https://www.usenix.org/conferences/byname/5) - Prominent Conference About SysAdmin/DevOps/SRE.
 * [SRE Tech Talks](https://developers.google.com/events/sre/) - SRE Talks Hosted by Google.
 * [South Bay Site Reliability Engineering (Sunnyvale, CA) Meetup](https://www.meetup.com/South-Bay-Site-Reliability-Engineering/) - A Group For Individuals Who Tackle Reliability Challenges For Web-Scale Systems.
+* [San Francisco Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/) - A Group Of People Who Are Passionate About Reliable, Performant Software Systems.
 
 ## Twitter
 * [Alice Goldfuss](https://twitter.com/alicegoldfuss) - SRE @ New Relic - Tweets About the SRE Culture.
