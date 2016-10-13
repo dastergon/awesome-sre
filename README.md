@@ -59,6 +59,8 @@ Contributions are always welcome!
 * [The Softer Side of DevOps](https://www.youtube.com/watch?v=ry51Llzil1I)
 * [SRE, noun. See also: confidence, trust.](https://medium.com/@kobolog/sre-noun-see-also-confidence-trust-e7e33e19efc1)
 * [Site Reliability Engineering with Stephen Weinberg](https://youtu.be/24xb7oZgu-I?t=29m24s)
+* [We are the Google Site Reliability team. We make Google’s websites work. Ask us Anything!](https://www.reddit.com/r/IAmA/comments/177267/we_are_the_google_site_reliability_team_we_make)
+* [We are the Google Site Reliability Engineering team. Ask us Anything!](https://www.reddit.com/r/IAmA/comments/1w1y5m/we_are_the_google_site_reliability_engineering/)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
