@@ -61,6 +61,7 @@ Contributions are always welcome!
 * [Site Reliability Engineering with Stephen Weinberg](https://youtu.be/24xb7oZgu-I?t=29m24s)
 * [We are the Google Site Reliability team. We make Google’s websites work. Ask us Anything!](https://www.reddit.com/r/IAmA/comments/177267/we_are_the_google_site_reliability_team_we_make)
 * [We are the Google Site Reliability Engineering team. Ask us Anything!](https://www.reddit.com/r/IAmA/comments/1w1y5m/we_are_the_google_site_reliability_engineering/)
+* [The Ops Identity Crisis](http://www.susanjfowler.com/blog/2016/10/13/the-ops-identity-crisis)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
