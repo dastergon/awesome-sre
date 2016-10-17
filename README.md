@@ -169,6 +169,7 @@ Contributions are always welcome!
 * [rachelbythebay](https://rachelbythebay.com/w/) - Techincal Blog Posts.
 * [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
 * [Production Ready](https://tinyletter.com/production-ready) - A mailing list about building resilient infrastructure and tools.
+* [Susan J. Fowler](http://www.susanjfowler.com/blog/) - Various blog posts about SRE, Software Engineering and Microservices.
 
 ## Conferences & Meetups
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The Official SRE Conference.
