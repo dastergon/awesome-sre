@@ -108,6 +108,7 @@ Contributions are always welcome!
 
 ## Alerting
 * [My Philosophy on Alerting by Rob Ewaschuk](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview#)
+* [Time To Detect - Netflix](https://www.youtube.com/watch?v=wsgpV67MLFo)
 
 ## Monitoring
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
