@@ -115,6 +115,7 @@ Contributions are always welcome!
 * [The Evolution of Monitoring Systems at Google - Tony Rippy](https://vimeo.com/131484321)
 * [Monitoring without Infrastructure @ Airbnb](https://www.usenix.org/conference/srecon15/program/presentation/serebryany)
 * [Monitoring distributed systems](https://www.oreilly.com/ideas/monitoring-distributed-systems)
+* [Observability at Uber Engineering: Past, Present, Future](https://www.youtube.com/watch?v=2JAnmzVwgP8)
 
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
