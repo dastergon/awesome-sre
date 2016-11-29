@@ -161,6 +161,7 @@ Contributions are always welcome!
 * [Adventures in SRE-land: Welcome to Google Mission Control](https://cloudplatform.googleblog.com/2016/07/adventures-in-SRE-land-welcome-to-Google-Mission-Control.html)
 * [LinkedIn Preps Site Reliability Engineers (SREs) For Exciting Careers](http://devops.com/2015/09/10/linkedin-preps-site-reliability-engineers-sres-exciting-careers/)
 * [Book Review: Site Reliability Engineering - How Google Runs Production Systems](https://www.infoq.com/articles/site-reliability-engineering)
+* [Site Reliability Engineers: “We solve cooler problems”](https://www.google.com/about/careers/stories/site-reliability-engineering-profile-google/)
 
 ## Real-time Messaging
 * [#sre channel at Hangops Slack](https://hangops.slack.com/) - Discussion of Site Reliability Engineering generally.
