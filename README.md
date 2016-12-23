@@ -176,6 +176,7 @@ Contributions are always welcome!
 * [Production Ready](https://tinyletter.com/production-ready) - A mailing list about building resilient infrastructure and tools.
 * [Susan J. Fowler](http://www.susanjfowler.com/blog/) - Various blog posts about SRE, Software Engineering and Microservices.
 * [SREally?!](https://sreally.com/)
+* [SysAdvent](https://sysadvent.blogspot.com) - One article for each day of December, ending on the 25th article.
 
 ## Conferences & Meetups
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The Official SRE Conference.
