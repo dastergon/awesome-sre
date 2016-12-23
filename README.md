@@ -125,6 +125,7 @@ Contributions are always welcome!
 * [Incident Response at Heroku](https://blog.heroku.com/archives/2014/5/9/incident-response-at-heroku)
 * [Who's On Call?](http://www.susanjfowler.com/blog/2016/9/6/whos-on-call)
 * [SysAdvent - Day 6 - No More On-Call Martyrs](https://sysadvent.blogspot.com/2016/12/day-6-no-more-on-call-martyrs.html)
+* [On Being On Call](http://naildrivin5.com/blog/2016/12/07/on-call.html)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
