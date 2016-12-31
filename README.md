@@ -110,6 +110,8 @@ Contributions are always welcome!
 * [Dickerson's Hierarchy of Reliability](https://docs.google.com/drawings/d/1kshrK2RLkW-XV8enmWZxeRFRgADj6d4Ru_w5txz_k9I/edit)
 * [The Morning Paper on Operability](https://blog.acolyer.org/2016/09/21/the-morning-paper-on-operability/)
 * [Production is all that matters](http://naildrivin5.com/blog/2013/06/16/production-is-all-that-matters.html)
+* [Using load shedding to survive a success disaster - CRE life lessons](https://cloudplatform.googleblog.com/2016/12/using-load-shedding-to-survive-a-success-disaster-CRE-life-lessons.html)
+* [How to avoid a self-inflicted DDoS Attack - CRE life lessons](https://cloudplatform.googleblog.com/2016/11/how-to-avoid-a-self-inflicted-DDoS-Attack-CRE-life-lessons.html)
 
 ## Alerting
 * [My Philosophy on Alerting by Rob Ewaschuk](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview#)
