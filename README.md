@@ -207,6 +207,7 @@ Contributions are always welcome!
 * [Jennifer Petoff](https://twitter.com/jennski) - Program Manager for Google's Site Reliability Engineering team.
 * [Jesse Dearing](https://twitter.com/JesseDearing) - SRE @ InVisionApp.
 * [Jonah horowitz](https://twitter.com/jonahhorowitz) - SRE @ Netflix.
+* [Krishelle Hardson-Hurley](https://twitter.com/khardsonhurley) - SRE @ Dropbox.
 * [Niall Murphy](https://twitter.com/niallm) - SRE @ Google.
 * [Nick Craver](https://twitter.com/Nick_Craver) - SRE @ StackOverflow.
 * [SREBook](https://twitter.com/SREBook) - The Official Twitter Account of Site Reliability Engineering Book.
