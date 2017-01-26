@@ -119,6 +119,7 @@ Contributions are always welcome!
 * [Don't gamble when it comes to reliability](https://www.oreilly.com/ideas/dont-gamble-when-it-comes-to-reliability)
 * [Resilience Engineering: Learning to Embrace Failure](https://queue.acm.org/detail.cfm?id=2371297)
 * [The Infrastructure Behind Twitter: Scale](https://blog.twitter.com/2017/the-infrastructure-behind-twitter-scale)
+* [Scaling Reliability at Twitter: So You Want to Add a 9](https://www.youtube.com/watch?v=hYu13kBenjE)
 
 ## Monitoring and Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
