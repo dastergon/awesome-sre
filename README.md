@@ -121,6 +121,7 @@ Contributions are always welcome!
 * [The Infrastructure Behind Twitter: Scale](https://blog.twitter.com/2017/the-infrastructure-behind-twitter-scale)
 * [Scaling Reliability at Twitter: So You Want to Add a 9](https://www.youtube.com/watch?v=hYu13kBenjE)
 * [Principles Of Chaos Engineering](http://principlesofchaos.org/)
+* [Chaos Engineering](https://www.infoq.com/articles/chaos-engineering)
 
 ## Monitoring and Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
