@@ -122,6 +122,7 @@ Contributions are always welcome!
 * [Scaling Reliability at Twitter: So You Want to Add a 9](https://www.youtube.com/watch?v=hYu13kBenjE)
 * [Principles Of Chaos Engineering](http://principlesofchaos.org/)
 * [Chaos Engineering](https://www.infoq.com/articles/chaos-engineering)
+* [Available...or not? That is the question - CRE life lessons](https://cloudplatform.googleblog.com/2017/01/available-or-not-that-is-the-question-CRE-life-lessons.html)
 
 ## Monitoring and Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
