@@ -211,6 +211,7 @@ Contributions are always welcome!
 * [SREally?!](https://sreally.com/)
 * [SysAdvent](https://sysadvent.blogspot.com) - One article for each day of December, ending on the 25th article.
 * [Operations for Developers](http://some.ops4devs.info/) - A collection of resources for developers to strengthen their Ops skills.
+* [ProdOps: From Product to Production](http://prodops.guide/)
 
 ## Conferences & Meetups
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The Official SRE Conference.
