@@ -71,6 +71,7 @@ Contributions are always welcome!
 * [SBSRE Meetup: Different SRE roles and challenges(Netflix)](https://www.youtube.com/watch?v=zLXf0cKDOv0)
 * [Panel: Who/What Is SRE?](https://www.usenix.org/conference/srecon16/program/presentation/definition-of-sre-panel)
 * [Hope Is Not a Strategy](https://medium.com/@jerub/hope-is-not-a-strategy-6a7d0a3b1c08)
+* [Tenets of SRE](https://medium.com/@jerub/tenets-of-sre-8af6238ae8a8)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
