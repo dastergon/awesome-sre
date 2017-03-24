@@ -82,6 +82,7 @@ Contributions are always welcome!
 * [Graduating from Bootcamp and interested in becoming a Site Reliability Engineer?](https://medium.com/@tammybutow/graduating-from-bootcamp-and-interested-in-becoming-a-site-reliability-engineer-b69a38ce858b)
 * [So you want to be a Site Reliability Engineer?](https://www.linkedin.com/pulse/so-you-want-site-reliability-engineer-beerit-goldfarb)
 * [Spiraling Ops Debt & the SRE Coding Imperative](https://blog.loomsystems.com/2017/02/06/spiraling-ops-debt-the-sre-coding-imperative/)
+* [So you want to be an SRE?](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c)
 
 ## Books
 * [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html)
