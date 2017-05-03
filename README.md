@@ -235,21 +235,21 @@ Contributions are always welcome!
 * [San Francisco Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/) - A Group Of People Who Are Passionate About Reliable, Performant Software Systems.
 
 ## Twitter
-* [Alice Goldfuss](https://twitter.com/alicegoldfuss) - SRE @ New Relic - Tweets About the SRE Culture.
-* [Brendan Gregg](https://twitter.com/brendangregg) - SRE @ Netflix - Technical Resources about Systems, Performance and Site Reliability Engineers.
-* [Caitie McCaffrey](https://twitter.com/caitie) - Tweets About Reliability and Distributed Systems.
-* [Dave Hahn](https://twitter.com/relix42) - SRE @ Netflix.
-* [Highscal](https://twitter.com/highscal) - Feed of the High Scalability Blog.
-* [Jennifer Petoff](https://twitter.com/jennski) - Program Manager for Google's Site Reliability Engineering team.
-* [Jesse Dearing](https://twitter.com/JesseDearing) - SRE @ InVisionApp.
-* [Jonah horowitz](https://twitter.com/jonahhorowitz) - SRE @ Netflix.
-* [Krishelle Hardson-Hurley](https://twitter.com/khardsonhurley) - SRE @ Dropbox.
-* [Niall Murphy](https://twitter.com/niallm) - SRE @ Google.
-* [Nick Craver](https://twitter.com/Nick_Craver) - SRE @ StackOverflow.
+* [Alice Goldfuss](https://twitter.com/alicegoldfuss)
+* [Brendan Gregg](https://twitter.com/brendangregg)
+* [Caitie McCaffrey](https://twitter.com/caitie)
+* [Dave Hahn](https://twitter.com/relix42)
+* [Highscal](https://twitter.com/highscal)
+* [Jennifer Petoff](https://twitter.com/jennski)
+* [Jesse Dearing](https://twitter.com/JesseDearing)
+* [Jonah horowitz](https://twitter.com/jonahhorowitz)
+* [Krishelle Hardson-Hurley](https://twitter.com/khardsonhurley)
+* [Niall Murphy](https://twitter.com/niallm)
+* [Nick Craver](https://twitter.com/Nick_Craver)
 * [SREBook](https://twitter.com/SREBook) - The Official Twitter Account of Site Reliability Engineering Book.
 * [SREcon](https://twitter.com/SREcon) - SRECon's Official Twitter Account.
-* [Tammy Bütow](https://twitter.com/tammybutow) - SRE Manager at Dropbox
-* [Thomas A. Limoncelli](https://twitter.com/yesthattom) - Prominent Author About SysAdmin/DevOps/SRE - SRE Manager at Stack Exchange.
-* [Todd Underwood](https://twitter.com/tmu) - SRE @ Google.
+* [Tammy Bütow](https://twitter.com/tammybutow)
+* [Thomas A. Limoncelli](https://twitter.com/yesthattom)
+* [Todd Underwood](https://twitter.com/tmu)
 * [Twitter SRE](https://twitter.com/TwitterSRE) - The Official Twitter Account of Twitter's SRE team.
 * [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
