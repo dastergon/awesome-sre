@@ -248,6 +248,7 @@ Contributions are always welcome!
 * [Jennifer Petoff](https://twitter.com/jennski)
 * [Jesse Dearing](https://twitter.com/JesseDearing)
 * [Jonah horowitz](https://twitter.com/jonahhorowitz)
+* [Julia Evans](https://twitter.com/b0rk)
 * [Krishelle Hardson-Hurley](https://twitter.com/khardsonhurley)
 * [Niall Murphy](https://twitter.com/niallm)
 * [Nick Craver](https://twitter.com/Nick_Craver)
