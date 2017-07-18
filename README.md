@@ -101,7 +101,7 @@ Contributions are always welcome!
 * [Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098/)
 * [Monitoring Distributed Systems: Case Studies from Google's SRE Teams](http://www.oreilly.com/webops-perf/free/monitoring-distributed-systems.csp)
 * [The Human Side of Postmortems: Managing Stress and Cognitive Biases](http://www.oreilly.com/webops-perf/free/the-human-side-of-postmortems.csp)
-* [Chaos Engineering](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
+* [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
 * [Post-Incident Reviews: Learning from Failure for Improved Incident Responses](https://victorops.com/oreilly-post-incident-review/)
 
 ## Hiring
