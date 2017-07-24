@@ -224,6 +224,7 @@ Contributions are always welcome!
 * [Go Language for Ops and Site Reliability Engineering](http://www.oreilly.com/pub/e/2712)
 * [Go for SREs using Python](https://www.usenix.org/sites/default/files/conference/protected-files/srecon16_slides_hamilton.pdf)
 * [Operability in Go](https://speakerdeck.com/ianschenck/operability-in-go)
+* [Go Reliability and Durability at Dropbox](https://www.youtube.com/watch?v=5doOcaMXx08)
 
 ## Articles
 * [What is SRE (Site Reliability Engineering)?](https://www.oreilly.com/ideas/what-is-sre-site-reliability-engineering)
