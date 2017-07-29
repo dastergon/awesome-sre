@@ -22,7 +22,7 @@ Contributions are always welcome!
 - [Capacity Planning](#capacity-planning)
 - [Service Level Agreement](#service-level-agreement)
 - [Performance](#performance)
-- [Articles](#articles)
+- [Misc Articles](#misc-articles)
 - [Blogs](#blogs)
 - [Conferences & Meetups](#conferences--meetups)
 - [Twitter](#twitter)
@@ -228,7 +228,7 @@ Contributions are always welcome!
 * [Operability in Go](https://speakerdeck.com/ianschenck/operability-in-go)
 * [Go Reliability and Durability at Dropbox](https://www.youtube.com/watch?v=5doOcaMXx08)
 
-## Articles
+## Misc Articles
 * [What is SRE (Site Reliability Engineering)?](https://www.oreilly.com/ideas/what-is-sre-site-reliability-engineering)
 * [Here’s How Google Makes Sure It (Almost) Never Goes Down](http://www.wired.com/2016/04/google-ensures-services-almost-never-go/)
 * [Are site reliability engineers the next data scientists?](http://techcrunch.com/2016/03/02/are-site-reliability-engineers-the-next-data-scientists/)
