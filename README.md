@@ -199,6 +199,7 @@ Contributions are always welcome!
 * [Writing Your First Postmortem](https://medium.com/production-ready/writing-your-first-postmortem-8053c678b90f)
 * [How to Write Great Outage Post-Mortems](https://artsy.github.io/blog/2014/11/19/how-to-write-great-outage-post-mortems/)
 * [A collection of postmortem templates](https://github.com/dastergon/postmortem-templates)
+* [Embracing Feedback](https://blog.heptio.com/embracing-feedback-2fd703da714f)
 
 ## Capacity Planning
 * [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf)
