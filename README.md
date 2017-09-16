@@ -86,6 +86,7 @@ Contributions are always welcome!
 * [The Cloudcast #301: SRE and Infrastructure Operations (Podcast)](https://dzone.com/articles/the-cloudcast-301-sre-and-infrastructure-operation) 
 * [The SRE model](https://medium.com/@rakyll/the-sre-model-6e19376ef986)
 * [Onboarding New Site Reliability Engineers](https://circleci.com/blog/onboarding-new-site-reliability-engineers/)
+* [Building Blocks for Site Reliability At Google](https://www.youtube.com/watch?v=nQv9ySa8MTU)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
