@@ -195,6 +195,7 @@ Contributions are always welcome!
 * [The On-Call Handbook](https://github.com/alicegoldfuss/oncall-handbook)
 * [Incident management at Google — adventures in SRE-land](https://cloudplatform.googleblog.com/2017/02/Incident-management-at-Google-adventures-in-SRE-land.html)
 * [How Spotify and GOV.UK handle on call, and more](https://blog.serverdensity.com/spotify-gov-uk-handle-on-call/)
+* [Run Book / Operations Manual template](https://github.com/SkeltonThatcher/run-book-template)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
