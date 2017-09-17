@@ -184,6 +184,7 @@ Contributions are always welcome!
 * [Instrumentation: What does 'uptime' mean?](https://honeycomb.io/blog/2017/01/instrumentation-what-does-uptime-mean/)
 * [Incidents + Outages at CircleCI: Our Playbook and What We’ve Learned](https://circleci.com/blog/incidents-outages-at-circleci-our-playbook-and-what-we-ve-learned/)
 * [An introduction to monitoring and alerting with timeseries at scale, with Prometheus](https://www.youtube.com/watch?v=gNmWzkGViAY)
+* [Detecting outliers and anomalies in realtime at Datadog](https://www.youtube.com/watch?v=mG4ZpEhRKHA)
 
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
