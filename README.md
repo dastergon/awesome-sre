@@ -275,7 +275,7 @@ Contributions are always welcome!
 * [Stephen Thorne's Blog](https://medium.com/@jerub) - Blog Posts About SRE
 * [Increment](https://increment.com/) - A digital magazine about how teams build and operate software systems at scale.
 * [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
-
+* [GopherSRE](http://www.gophersre.com/) - Blog Posts about Go and SRE.
 
 ## Conferences & Meetups
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The Official SRE Conference.
