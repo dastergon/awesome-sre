@@ -87,6 +87,7 @@ Contributions are always welcome!
 * [The SRE model](https://medium.com/@rakyll/the-sre-model-6e19376ef986)
 * [Onboarding New Site Reliability Engineers](https://circleci.com/blog/onboarding-new-site-reliability-engineers/)
 * [Building Blocks for Site Reliability At Google](https://www.youtube.com/watch?v=nQv9ySa8MTU)
+* [Beyond Google SRE: What is Site Reliability Engineering like at Medium?](https://blog.netsil.com/beyond-google-sre-what-is-site-reliability-engineering-like-at-medium-71c65bd35f4e)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
