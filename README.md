@@ -292,6 +292,7 @@ Contributions are always welcome!
 * [Alice Goldfuss](https://twitter.com/alicegoldfuss)
 * [Brendan Gregg](https://twitter.com/brendangregg)
 * [Caitie McCaffrey](https://twitter.com/caitie)
+* [Charity Majors](https://twitter.com/mipsytipsy)
 * [Dave Hahn](https://twitter.com/relix42)
 * [Highscal](https://twitter.com/highscal)
 * [Jennifer Petoff](https://twitter.com/jennski)
