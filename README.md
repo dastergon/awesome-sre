@@ -233,6 +233,7 @@ Contributions are always welcome!
 * [Availability Calculator: Calculate how much downtime should be permitted in your SLA](https://dastergon.github.io/availability-calculator/)
 * [Standardize cloud SLA availability with numerical performance data](https://www.ibm.com/developerworks/cloud/library/cl-SLAloadbalance-numanalysis/)
 * [Best practices to develop SLAs for cloud computing](https://www.ibm.com/developerworks/cloud/library/cl-slastandards/)
+* [A Practical Guide to SLAs](http://blog.catchpoint.com/2016/08/04/sla-practical-guide/)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
