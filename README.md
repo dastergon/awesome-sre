@@ -271,10 +271,10 @@ Contributions are always welcome!
 * [#incident_response channel at Hangops Slack](https://hangops.slack.com/) - Discussion about Incident Response.
 
 ## Blogs
-* [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) - Highly Technical Blog Posts About Systems Internals, Performance and SRE.
+* [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) - Highly Techincal Blog Posts About Systems Internals, Performance and SRE.
 * [Everything Sysadmin](http://everythingsysadmin.com/) - Blog Posts About SysAdmin/DevOps/SRE by Tom Limoncelli.
 * [High Scalability](http://highscalability.com/) - Technical Blog Posts About Systems Architecture.
-* [rachelbythebay](https://rachelbythebay.com/w/) - Technical Blog Posts.
+* [rachelbythebay](https://rachelbythebay.com/w/) - Techincal Blog Posts.
 * [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
 * [Production Ready](https://tinyletter.com/production-ready) - A mailing list about building resilient infrastructure and tools.
 * [Susan J. Fowler](http://www.susanjfowler.com/blog/) - Various blog posts about SRE, Software Engineering and Microservices.
@@ -304,7 +304,7 @@ Contributions are always welcome!
 * [Highscal](https://twitter.com/highscal)
 * [Jennifer Petoff](https://twitter.com/jennski)
 * [Jesse Dearing](https://twitter.com/JesseDearing)
-* [Jonah horowitz](https://twitter.com/jonahhorowitz)
+* [Jonah Horowitz](https://twitter.com/jonahhorowitz)
 * [Julia Evans](https://twitter.com/b0rk)
 * [Krishelle Hardson-Hurley](https://twitter.com/khardsonhurley)
 * [Niall Murphy](https://twitter.com/niallm)
