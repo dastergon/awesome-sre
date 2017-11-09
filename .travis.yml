@@ -1,0 +1,9 @@
+language: ruby
+rvm: 2.2
+before_script:
+  - gem install awesome_bot
+  - gem install danger
+script:
+  - awesome_bot README.md --allow-dupe --allow-ssl --allow 403,429 --allow-redirect
+after_script:
+  - danger
