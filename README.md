@@ -92,6 +92,7 @@ Contributions are always welcome!
 * [A crash course in LinkedIn's global site operations](https://engineering.linkedin.com/day-life/crash-course-linkedins-global-site-operations)
 * [Google’s Site Reliability Engineering with Todd Underwood](https://softwareengineeringdaily.com/2016/06/14/googles-site-reliability-engineering-todd-underwood/)
 * [The Rise of the Site Reliability Engineer](https://blog.newrelic.com/2017/10/30/site-reliability-engineer-sre)
+* [Defining Modern Software Roles: SREs at New Relic](https://blog.newrelic.com/2017/12/15/new-relic-sre/)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
