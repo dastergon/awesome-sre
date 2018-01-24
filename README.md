@@ -93,6 +93,7 @@ Contributions are always welcome!
 * [Google’s Site Reliability Engineering with Todd Underwood](https://softwareengineeringdaily.com/2016/06/14/googles-site-reliability-engineering-todd-underwood/)
 * [The Rise of the Site Reliability Engineer](https://blog.newrelic.com/2017/10/30/site-reliability-engineer-sre)
 * [Defining Modern Software Roles: SREs at New Relic](https://blog.newrelic.com/2017/12/15/new-relic-sre/)
+* [What Tools Do Site Reliability Engineers Use?](https://blog.newrelic.com/2018/01/23/best-sre-tools/)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
