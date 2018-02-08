@@ -271,6 +271,7 @@ Contributions are always welcome!
 * [Site Reliability Engineers: “We solve cooler problems”](https://www.google.com/about/careers/stories/site-reliability-engineering-profile-google/)
 * [SREcon17: Brave new world of site reliability engineering](http://www.networkworld.com/article/3182827/cloud-computing/srecon17-brave-new-world-of-site-reliability-engineering.html)
 * [Open AWS guide](https://github.com/open-guides/og-aws)
+* [20 SRE / Devops / System Engineer Tricks](https://twitter.com/i/moments/924656333495898112)
 
 ## Real-time Messaging
 * [#sre channel at Hangops Slack](https://hangops.slack.com/) - Discussion of Site Reliability Engineering generally.
