@@ -178,6 +178,7 @@ Contributions are always welcome!
 * [CRE life lessons: What is a dark launch, and what does it do for me?](https://cloudplatform.googleblog.com/2017/08/CRE-life-lessons-what-is-a-dark-launch-and-what-does-it-do-for-me.html)
 * [Why you should pick strong consistency, whenever possible](https://cloudplatform.googleblog.com/2018/01/why-you-should-pick-strong-consistency-whenever-possible.html)
 * [The Network is Reliable](https://queue.acm.org/detail.cfm?id=2655736)
+* [Are You Load Balancing Wrong?](https://queue.acm.org/detail.cfm?id=3028689)
 
 ## Monitoring and Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
