@@ -180,6 +180,7 @@ Contributions are always welcome!
 * [Why you should pick strong consistency, whenever possible](https://cloudplatform.googleblog.com/2018/01/why-you-should-pick-strong-consistency-whenever-possible.html)
 * [The Network is Reliable](https://queue.acm.org/detail.cfm?id=2655736)
 * [Are You Load Balancing Wrong?](https://queue.acm.org/detail.cfm?id=3028689)
+* [How production engineers support global events on Facebook](https://code.facebook.com/posts/166966743929963/how-production-engineers-support-global-events-on-facebook/)
 
 ## Monitoring and Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
