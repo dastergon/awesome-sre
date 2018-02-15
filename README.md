@@ -204,6 +204,7 @@ Contributions are always welcome!
 * [Observability: the new wave or buzzword?](https://medium.com/@dlite/observability-the-new-wave-or-buzzword-fc23a68abf72)
 * [Monitoring Isn't Observability](https://www.vividcortex.com/blog/monitoring-isnt-observability)
 * [Monitoring in the time of Cloud Native](https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e)
+* [Principles of Monitoring Microservices](https://www.youtube.com/watch?v=2LNHv0JyBUk)
 
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
