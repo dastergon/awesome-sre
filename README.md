@@ -96,6 +96,7 @@ Contributions are always welcome!
 * [What Tools Do Site Reliability Engineers Use?](https://blog.newrelic.com/2018/01/23/best-sre-tools/)
 * [What is Site Reliability Engineering? (VMware)](https://blogs.vmware.com/services-education-insights/2018/02/site-reliability-engineering.html)
 * [A Gentle Introduction to SRE](http://geekologist.co/introduction-to-sre/)
+* [Understanding Site Reliability Engineering through Movies and Books](http://engineering.medallia.com/blog/posts/understanding-site-reliability-engineering-through-movies-and-books/)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
