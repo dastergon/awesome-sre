@@ -16,7 +16,7 @@ Contributions are always welcome!
 - [Books](#books)
 - [Hiring](#hiring)
 - [Reliability](#reliability)
-- [Monitoring and Alerting](#monitoring-and-alerting)
+- [Monitoring & Observability & Alerting](#monitoring--observability--alerting)
 - [On-Call](#on-call)
 - [Post-Mortem](#post-mortem)
 - [Capacity Planning](#capacity-planning)
@@ -182,7 +182,7 @@ Contributions are always welcome!
 * [Are You Load Balancing Wrong?](https://queue.acm.org/detail.cfm?id=3028689)
 * [How production engineers support global events on Facebook](https://code.facebook.com/posts/166966743929963/how-production-engineers-support-global-events-on-facebook/)
 
-## Monitoring and Alerting
+## Monitoring & Observability & Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
 * [The Evolution of Monitoring Systems at Google - Tony Rippy](https://vimeo.com/131484321)
 * [Monitoring without Infrastructure @ Airbnb](https://www.usenix.org/conference/srecon15/program/presentation/serebryany)
