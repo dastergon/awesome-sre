@@ -231,6 +231,7 @@ Contributions are always welcome!
 * [On-call doesn’t have to suck](https://medium.com/@copyconstruct/on-call-b0bd8c5ea4e0)
 * [Why, as a Netflix infrastructure manager, am I on call?](https://medium.com/@awspyker/why-as-a-netflix-infrastructure-manager-am-i-on-call-bdc551ac01fe)
 * [Oncall and Sustainable Software Development](https://honeycomb.io/blog/2018/02/oncall-and-sustainable-software-development/)
+* [On Call Rotations: How Best to Wake Devs Up in the Middle of the Night](https://thenewstack.io/call-rotations-best-wake-devs-middle-night/)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
