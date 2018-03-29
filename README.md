@@ -22,6 +22,7 @@ Contributions are always welcome!
 - [Capacity Planning](#capacity-planning)
 - [Service Level Agreement](#service-level-agreement)
 - [Performance](#performance)
+- [Release](#release)
 - [Misc Articles](#misc-articles)
 - [Blogs](#blogs)
 - [Conferences & Meetups](#conferences--meetups)
@@ -161,7 +162,6 @@ Contributions are always welcome!
 * [SRE Hour: Tech Talks by Box & Yelp](https://www.youtube.com/watch?v=YFDwdRVTg4g)
 * [Simplicity: A Prerequisite for Reliability](https://medium.com/production-ready/simplicity-a-prerequisite-for-reliability-8d000f8d18df#.74t9t0em2)
 * [The Two Sides to Google Infrastructure for Everyone Else](https://speakerdeck.com/garethr/the-two-sides-to-google-infrastructure-for-everyone-else)
-* [How Embracing Continuous Release Reduced Change Complexity](https://www.usenix.org/conference/ures14west/summit-program/presentation/dickson)
 * [Making "Push On Green" a Reality](https://www.usenix.org/publications/login/october-2014-vol-39-no-5/making-push-green-reality)
 * [BeyondCorp: A New Approach to Enterprise Security](https://www.usenix.org/publications/login/dec14/ward)
 * [Brainstorming Failure by Jeff Smith](https://www.youtube.com/watch?v=dKe9S8u44Yk)
@@ -182,14 +182,11 @@ Contributions are always welcome!
 * [How Google Backs Up The Internet Along With Exabytes Of Other Data](http://highscalability.com/blog/2014/2/3/how-google-backs-up-the-internet-along-with-exabytes-of-othe.html)
 * [Performance, Scalability, And High Availability: 3 Key Infrastructure Adaptability Requirements](http://highscalability.com/blog/2017/2/2/performance-scalability-and-high-availability-3-key-infrastr.html)
 * The Production Environment at Google - [Part 1](https://medium.com/@jerub/the-production-environment-at-google-8a1aaece3767) & [Part 2](https://medium.com/@jerub/the-production-environment-at-google-part-2-610884268aaa)
-* [Reliable releases and rollbacks - CRE life lessons](https://cloudplatform.googleblog.com/2017/03/reliable-releases-and-rollbacks-CRE-life-lessons.html)
-* [How release canaries can save your bacon - CRE life lessons](https://cloudplatform.googleblog.com/2017/03/how-release-canaries-can-save-your-bacon-CRE-life-lessons.html)
 * [Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites](https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/)
 * [Every Day Is Monday in Operations](https://www.linkedin.com/pulse/introduction-every-day-monday-operations-benjamin-purgason)
 * [Under the Hood: Ensuring Site Reliability](https://engineering.squarespace.com/blog/2017/under-the-hood-ensuring-site-reliability)
 * [Designing reliable systems with cloud infrastructure (Google Cloud Next '17)](https://www.youtube.com/watch?v=7Hy_6SMn8pY)
 * [A Google SRE explores GitHub reliability with BigQuery](https://cloud.google.com/blog/big-data/2016/10/a-google-sre-explores-github-reliability-with-bigquery)
-* [How release canaries can save your bacon - CRE life lessons](https://cloudplatform.googleblog.com/2017/03/how-release-canaries-can-save-your-bacon-CRE-life-lessons.html)
 * [Know thy enemy: how to prioritize and communicate risks - CRE life lessons](https://cloudplatform.googleblog.com/2017/05/know-thy-enemy-how-to-prioritize-and-communicate-risks-CRE-life-lessons.html)
 * [Chaos Engineering resources](https://github.com/dastergon/awesome-chaos-engineering)
 * [CRE life lessons: What is a dark launch, and what does it do for me?](https://cloudplatform.googleblog.com/2017/08/CRE-life-lessons-what-is-a-dark-launch-and-what-does-it-do-for-me.html)
@@ -323,6 +320,13 @@ Contributions are always welcome!
 * [Go for SREs using Python](https://www.usenix.org/sites/default/files/conference/protected-files/srecon16_slides_hamilton.pdf)
 * [Operability in Go](https://speakerdeck.com/ianschenck/operability-in-go)
 * [Go Reliability and Durability at Dropbox](https://www.youtube.com/watch?v=5doOcaMXx08)
+
+## Release
+* https://devops.com/release-engineering-vs-release-management/
+* http://www.plutora.com/blog/release-management-vs-release-engineering
+* [How Embracing Continuous Release Reduced Change Complexity](https://www.usenix.org/conference/ures14west/summit-program/presentation/dickson)
+* [Reliable releases and rollbacks - CRE life lessons](https://cloudplatform.googleblog.com/2017/03/reliable-releases-and-rollbacks-CRE-life-lessons.html)
+* [How release canaries can save your bacon - CRE life lessons](https://cloudplatform.googleblog.com/2017/03/how-release-canaries-can-save-your-bacon-CRE-life-lessons.html)
 
 ## Misc Articles
 * [What is SRE (Site Reliability Engineering)?](https://www.oreilly.com/ideas/what-is-sre-site-reliability-engineering)
