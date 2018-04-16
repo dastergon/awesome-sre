@@ -209,6 +209,7 @@ Contributions are always welcome!
 * [Monitoring in the time of Cloud Native](https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e)
 * [Principles of Monitoring Microservices](https://www.youtube.com/watch?v=2LNHv0JyBUk)
 * [The Many Ways Your Monitoring Is Lying to You](https://www.usenix.org/node/197446)
+* [GitOps Part 3 - Observability](https://www.weave.works/blog/gitops-part-3-observability)
 
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
