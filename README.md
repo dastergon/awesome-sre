@@ -183,7 +183,7 @@ Contributions are always welcome!
 * [The Network is Reliable](https://queue.acm.org/detail.cfm?id=2655736)
 * [Are You Load Balancing Wrong?](https://queue.acm.org/detail.cfm?id=3028689)
 * [How production engineers support global events on Facebook](https://code.facebook.com/posts/166966743929963/how-production-engineers-support-global-events-on-facebook/)
-
+* [Google: A Collection Of Best Practices For Production Services](http://highscalability.com/blog/2018/4/16/google-a-collection-of-best-practices-for-production-service.html)
 
 ## Monitoring & Observability & Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
