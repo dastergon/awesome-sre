@@ -239,6 +239,7 @@ Contributions are always welcome!
 * [Understanding The Role Of The Incident Manager On-Call (IMOC)](https://www.gremlin.com/community/tutorials/understanding-the-role-of-the-incident-manager-on-call-imoc/)
 * [3 Ways to Minimize the Impact of High Severity Incidents](https://devops.com/three-ways-to-minimize-the-impact-of-high-severity-incidents/)
 * [Advice to Management Teams While Enrolling Changes to On-Call Systems](https://thenewstack.io/advice-management-teams-enrolling-changes-on-call-systems/)
+* [Moving Past Shallow Incident Data](http://www.adaptivecapacitylabs.com/blog/2018/03/23/moving-past-shallow-incident-data/)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
