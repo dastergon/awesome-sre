@@ -294,6 +294,9 @@ Contributions are always welcome!
 * [Operability in Go](https://speakerdeck.com/ianschenck/operability-in-go)
 * [Go Reliability and Durability at Dropbox](https://www.youtube.com/watch?v=5doOcaMXx08)
 
+## Roles in SRE
+* [Tech Leadership in SRE](https://www.youtube.com/watch?v=6G2V1xPIM64)
+
 ## Misc Articles
 * [What is SRE (Site Reliability Engineering)?](https://www.oreilly.com/ideas/what-is-sre-site-reliability-engineering)
 * [Here’s How Google Makes Sure It (Almost) Never Goes Down](http://www.wired.com/2016/04/google-ensures-services-almost-never-go/)
