@@ -216,6 +216,7 @@ Contributions are always welcome!
 * [Principles of Monitoring Microservices](https://www.youtube.com/watch?v=2LNHv0JyBUk)
 * [The Many Ways Your Monitoring Is Lying to You](https://www.usenix.org/node/197446)
 * [GitOps Part 3 - Observability](https://www.weave.works/blog/gitops-part-3-observability)
+* [Want to Debug Latency?](https://medium.com/observability/want-to-debug-latency-7aa48ecbe8f7)
 
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
