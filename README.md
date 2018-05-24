@@ -249,6 +249,7 @@ Contributions are always welcome!
 * [Advice to Management Teams While Enrolling Changes to On-Call Systems](https://thenewstack.io/advice-management-teams-enrolling-changes-on-call-systems/)
 * [Moving Past Shallow Incident Data](http://www.adaptivecapacitylabs.com/blog/2018/03/23/moving-past-shallow-incident-data/)
 * [Sustainable On-Call](https://codywilbourn.com/2018/03/22/sustainable-on-call/)
+* [dotScale 2017 - Aish Raj Dahal - Chaos management during a major incident](https://youtu.be/8pPrtf1J1Z8)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
