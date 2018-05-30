@@ -269,6 +269,8 @@ Contributions are always welcome!
 * [Postmortem Action Items: Plan the Work and Work the Plan](https://www.usenix.org/conference/srecon17americas/program/presentation/lueder)
 * [Social Issues In Postmortems](https://medium.com/@allspaw/social-issues-in-postmortems-d48dde624d18)
 * [Google Has an Official Process in Place for Learning From Failure--and It's Absolutely Brilliant](https://www.inc.com/justin-bariso/meet-postmortem-googles-brilliant-process-tool-for-learning-from-failure.html)
+* [Postmortem culture: how you can learn from failure](https://rework.withgoogle.com/blog/postmortem-culture-how-you-can-learn-from-failure/)
+* [re:Work - Postmortem discussion template](https://docs.google.com/document/d/1ob0dfG_gefr_gQ8kbKr0kS4XpaKbc0oVAk4Te9tbDqM/edit)
 
 ## Capacity Planning
 * [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf)
