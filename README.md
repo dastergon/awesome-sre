@@ -114,6 +114,7 @@ Contributions are always welcome!
 * [Career Profiles/Site Reliability Engineer](https://www.khanacademy.org/college-careers-more/career-content/career-profile-videos/site-reliability-engineer/v/ruth-grace-site-reliability-engineer-what-i-do-and-how-much-i-make)
 * [What is the role of a Site Reliability Engineer?](https://cloudacademy.com/blog/what-is-the-role-of-a-site-reliability-engineer/)
 * [Lynda.com: DevOps Foundations: Site Reliability Engineering](https://www.lynda.com/Software-Development-tutorials/DevOps-Foundations-Site-Reliability-Engineering/669542-2.html)
+* [Incident Management Training: Wheel of Misfortune](https://dastergon.gr/wheel-of-misfortune/)
 
 ## Books
 * [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html)
