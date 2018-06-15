@@ -252,6 +252,7 @@ Contributions are always welcome!
 * [Sustainable On-Call](https://codywilbourn.com/2018/03/22/sustainable-on-call/)
 * [dotScale 2017 - Aish Raj Dahal - Chaos management during a major incident](https://youtu.be/8pPrtf1J1Z8)
 * [Incident Management at Netflix Velocity](https://www.infoq.com/presentations/netflix-incident-management)
+* [Incidents, fixes, and the day after](https://medium.com/booking-com-infrastructure/incidents-fixes-and-the-day-after-c5d9aeae28c3)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
