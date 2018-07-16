@@ -103,6 +103,7 @@ Contributions are always welcome!
 * [The human scalability of "DevOps"](https://medium.com/@mattklein123/the-human-scalability-of-devops-e36c37d3db6a)
 * [Podcast: Site Reliability Management with Mike Hiraga](https://softwareengineeringdaily.com/2018/04/09/site-reliability-management-with-mike-hiraga/)
 * [How a cat inspired system reliability at Knowlarity](https://medium.com/@Knowlarity_Engineering/how-a-cat-inspired-system-reliability-at-knowlarity-ad73c24f29a7)
+* [Getting Started with Site Reliability Engineering](https://github.com/devopsenterprise/2018-London/blob/master/Tuesday/Breakout%20Sessions/Throne%2C%20Stephen%2C%20Getting%20Started%20with%20Site%20Reliability%20Engineering.pdf)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
