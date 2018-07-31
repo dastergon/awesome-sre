@@ -122,7 +122,7 @@ Contributions are always welcome!
 
 ## Books
 * [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html)
-* [The Site Reliability Workboo: Practical Ways to Implement SRE](https://landing.google.com/sre/book.html)
+* [The Site Reliability Workbook: Practical Ways to Implement SRE](https://landing.google.com/sre/book.html)
 * [The Practice Of Cloud System Administration: Designing and Operating Large Distributed Systems](http://the-cloud-book.com/)
 * [Web Operations - Keeping the Data On Time](http://shop.oreilly.com/product/0636920000136.do)
 * [The Checklist Manifesto: How to Get Things Right](http://atulgawande.com/book/the-checklist-manifesto/)
