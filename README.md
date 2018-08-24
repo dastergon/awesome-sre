@@ -280,6 +280,7 @@ Contributions are always welcome!
 * [Postmortem culture: how you can learn from failure](https://rework.withgoogle.com/blog/postmortem-culture-how-you-can-learn-from-failure/)
 * [re:Work - Postmortem discussion template](https://docs.google.com/document/d/1ob0dfG_gefr_gQ8kbKr0kS4XpaKbc0oVAk4Te9tbDqM/edit)
 * [Post-mortems to the rescue](https://increment.com/documentation/post-mortems-to-the-rescue/)
+* [Postmortem Action Items: Plan the Work and Work the Plan](https://ai.google/research/pubs/pub45906)
 
 ## Capacity Planning
 * [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf)
