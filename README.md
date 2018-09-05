@@ -138,6 +138,7 @@ Contributions are always welcome!
 * [How to Monitoring the SRE Golden Signals (E-Book)](https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook/)
 * [Incident Management for Operations](http://shop.oreilly.com/product/0636920036159.do)
 * [Distributed Systems Observability](http://distributed-systems-observability-ebook.humio.com/)
+* [Real-World SRE](https://www.packtpub.com/web-development/real-world-sre)
 
 ## Hiring
 * [SRE Hiring](https://www.usenix.org/conference/srecon15/program/presentation/fong)
