@@ -146,6 +146,7 @@ Contributions are always welcome!
 * [Hiring Site Reliability Engineers](https://www.usenix.org/publications/login/june15/hiring-site-reliability-engineers)
 * [Hiring your first SRE](https://sreally.com/hiring-your-first-sre-bdda38ee175d#.2m3sqyuw9)
 * [Growing the Site Reliability Team at LinkedIn: Hiring is Hard](https://www.youtube.com/watch?v=ZemNg9GYvOA)
+* [How to Find and Hire Site Reliability Engineers (SREs)](https://www.stackoverflowbusiness.com/blog/how-to-find-and-hire-site-reliability-engineers-sres)
 
 ## Reliability
 * [The Realities of the Job of Delivering Reliability](https://www.usenix.org/conference/srecon16/program/presentation/kroll)
