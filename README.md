@@ -362,7 +362,6 @@ Contributions are always welcome!
 * [SREally?!](https://sreally.com/)
 * [SysAdvent](https://sysadvent.blogspot.com) - One article for each day of December, ending on the 25th article.
 * [Operations for Developers](http://some.ops4devs.info/) - A collection of resources for developers to strengthen their Ops skills.
-* [ProdOps: From Product to Production](http://prodops.guide/)
 * [Stephen Thorne's Blog](https://medium.com/@jerub) - Blog Posts About SRE
 * [Increment](https://increment.com/) - A digital magazine about how teams build and operate software systems at scale.
 * [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
