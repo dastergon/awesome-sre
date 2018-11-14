@@ -109,6 +109,7 @@ Contributions are always welcome!
 * [Interview with Betsy Beyer, Stephen Thorne of Google](https://driftboatdave.com/2018/10/09/interview-with-betsy-beyer-stephen-thorne-of-google/)
 * [Less Risk Through Greater Humanity - Dave Rensin](https://www.youtube.com/watch?v=0zqBlRW_6jA)
 * [Getting Started with SRE - Stephen Thorne, Google](https://www.youtube.com/watch?v=c-w_GYvi0eA)
+* [Building Successful SRE in Large Enterprises](https://drive.google.com/file/d/1FXwHm6mpmRA9NaIJEu4cB1s6ffbyGBfl/view)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
