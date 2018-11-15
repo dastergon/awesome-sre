@@ -271,6 +271,7 @@ Contributions are always welcome!
 * [Checklists: a stupidly simple but valuable operational gift](https://tech.buzzfeed.com/checklists-an-operational-gift-aaf42cf0be12)
 * [How to write a status page update](https://blog.hostedgraphite.com/2018/09/13/how-to-write-a-status-page-update/)
 * [Atlassian Incident Handbook](https://www.atlassian.com/software/jira/ops/handbook)
+* [PagerDuty Incident Response Handbook](https://response.pagerduty.com/)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
