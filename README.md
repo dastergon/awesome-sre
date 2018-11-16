@@ -145,6 +145,7 @@ Contributions are always welcome!
 * [Incident Management for Operations](http://shop.oreilly.com/product/0636920036159.do)
 * [Distributed Systems Observability](http://distributed-systems-observability-ebook.humio.com/)
 * [Real-World SRE](https://www.packtpub.com/web-development/real-world-sre)
+* [Seeking SRE](http://shop.oreilly.com/product/0636920063964.do)
 
 ## Hiring
 * [SRE Hiring](https://www.usenix.org/conference/srecon15/program/presentation/fong)
