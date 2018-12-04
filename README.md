@@ -399,6 +399,7 @@ Contributions are always welcome!
 * [Niall Murphy](https://twitter.com/niallm)
 * [Nick Craver](https://twitter.com/Nick_Craver)
 * [SREBook](https://twitter.com/SREBook) - The Official Twitter Account of Site Reliability Engineering Book.
+* [SREWorkbook](https://twitter.com/SREWorkbook) - The Official Twitter Account of Site Reliability Workbook.
 * [SREcon](https://twitter.com/SREcon) - SRECon's Official Twitter Account.
 * [Tammy Bütow](https://twitter.com/tammybutow)
 * [Thomas A. Limoncelli](https://twitter.com/yesthattom)
