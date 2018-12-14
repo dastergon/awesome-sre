@@ -52,6 +52,7 @@ Contributions are always welcome!
 * [Toil: A Word Every Engineer Should Know](https://medium.com/production-ready/toil-a-word-every-engineer-should-know-f0b676e41c86)
 * [Engineering Reliability into Web Sites: Google SRE](https://research.google.com/pubs/pub32583.html)
 * [DEVOPS & SRE AMA - Building High Performance Organizations](http://pages.catchpoint.com/DEVOPS-SRE-AMA-mkty.html)
+* [John Allspaw's AMA on Incident Analysis and Postmortems](https://community.atlassian.com/t5/Jira-Ops-questions/I-m-John-Allspaw-Ask-Me-Anything-about-incident-analysis-and/qaq-p/957084)
 * Site Reliability Engineering with Paul Newson - [Part 1](https://www.gcppodcast.com/post/episode-38-site-reliability-engineering-with-paul-newson/) & [Part 2](https://gcppodcast.com/post/episode-59-sre-ii-with-paul-newson/)
 * [How SysAdmins Devalue Themselves](https://queue.acm.org/detail.cfm?id=2891413)
 * [The Softer Side of DevOps](https://www.youtube.com/watch?v=ry51Llzil1I)
