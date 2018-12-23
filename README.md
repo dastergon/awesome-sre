@@ -359,6 +359,7 @@ Contributions are always welcome!
 * [Site Reliability Engineering: 4 Things to Know](https://www.networkcomputing.com/data-centers/site-reliability-engineering-4-things-know/888724300)
 * [Looking for SRE Success? Then Find the Intrapreneurs!](https://www.linkedin.com/pulse/looking-sre-success-find-intrapreneurs-josh-gilliland/)
 * [What Team Structure is Right for DevOps to Flourish?](http://web.devopstopologies.com/)
+* [Injured on Vacation? Applying Principles from Site Reliability Engineering to a Travel Emergency](https://www.sidewalksafari.com/2018/12/sre-in-a-travel-emergency.html)
 
 ## Real-time Messaging
 * [#sre channel at Hangops Slack](https://hangops.slack.com/) - Discussion of Site Reliability Engineering generally.
