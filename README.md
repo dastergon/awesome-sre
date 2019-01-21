@@ -211,6 +211,7 @@ Contributions are always welcome!
 * [Canary Analysis Service](https://queue.acm.org/detail.cfm?id=3194655)
 * [Tips for High Availability](https://medium.com/@NetflixTechBlog/tips-for-high-availability-be0472f2599c)
 * [Progressive Service Architecture At Auth0](https://auth0.com/blog/progressive-service-architecture-at-auth0/)
+* [Google Cloud Production Guideline](https://medium.com/google-cloud/production-guideline-9d5d10c8f1e)
 
 ## Monitoring & Observability & Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
