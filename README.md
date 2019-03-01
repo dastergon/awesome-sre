@@ -420,4 +420,4 @@ Contributions are always welcome!
 * [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
 
 ## SRE Tools
-* [List of Continuos Integration Services](https://github.com/ligurio/awesome-ci)
+* [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
