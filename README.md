@@ -364,6 +364,7 @@ Contributions are always welcome!
 * [What Team Structure is Right for DevOps to Flourish?](http://web.devopstopologies.com/)
 * [Injured on Vacation? Applying Principles from Site Reliability Engineering to a Travel Emergency](https://www.sidewalksafari.com/2018/12/sre-in-a-travel-emergency.html)
 * [Building blameless working environment](https://sobolevn.me/2018/12/blameless-environment)
+* [SRE Adoption Report](https://techbeacon.com/devops/how-accenture-retrofitted-site-reliability-engineering)
 
 ## Real-time Messaging
 * [#sre channel at Hangops Slack](https://hangops.slack.com/) - Discussion of Site Reliability Engineering generally.
