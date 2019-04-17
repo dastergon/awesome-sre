@@ -130,6 +130,7 @@ Contributions are always welcome!
 * [Site Un-Reliability Engineering [Video Series]](https://blog.newrelic.com/2018/07/05/site-reliability-engineering-sre/)
 * [The Ultimate Guide to Structuring a 90-Day Onboarding Plan](https://medium.com/swlh/the-ultimate-guide-to-structuring-a-90-day-onboarding-plan-c91af947376)
 * [SRE fundamentals: SLIs, SLAs and SLOs](https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos)
+* [How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)
 
 ## Books
 * [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html)
