@@ -394,6 +394,7 @@ Contributions are always welcome!
 * [San Francisco Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/) - A Group Of People Who Are Passionate About Reliable, Performant Software Systems.
 * [Front Range Site Reliability Engineering](https://www.meetup.com/site-reliability/) - SRE Meetup in Boulder/Denver/Golden/DTC/FoCo area.
 * [Site Reliability Engineering Munich, Germany](https://www.meetup.com/Site-Reliability-Engineering-Munich/) - SRE Meetup in the greater area of Oktoberfest city.
+* [Rootconf - India](https://hasgeek.com/rootconf/) - India's largest conference and community on Infrastructure security, DevOps and distributed systems.
 
 ## Twitter
 * [Alice Goldfuss](https://twitter.com/alicegoldfuss)
