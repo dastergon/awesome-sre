@@ -278,6 +278,7 @@ Contributions are always welcome!
 * [How to write a status page update](https://blog.hostedgraphite.com/2018/09/13/how-to-write-a-status-page-update/)
 * [Atlassian Incident Handbook](https://www.atlassian.com/software/jira/ops/handbook)
 * [PagerDuty Incident Response Handbook](https://response.pagerduty.com/)
+* [Avoiding Burnout for SREs](https://blog.zenduty.com/blog/2019/05/02/Avoiding-SRE-Burnout)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
