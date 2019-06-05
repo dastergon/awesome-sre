@@ -134,6 +134,7 @@ Contributions are always welcome!
 * [How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)
 
 ## Books
+* [Practical Linux Infrastructure](https://www.apress.com/us/book/9781484205129)
 * [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html)
 * [The Site Reliability Workbook: Practical Ways to Implement SRE](https://landing.google.com/sre/book.html)
 * [The Practice Of Cloud System Administration: Designing and Operating Large Distributed Systems](http://the-cloud-book.com/)
