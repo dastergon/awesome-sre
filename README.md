@@ -376,6 +376,7 @@ Contributions are always welcome!
 ## Real-time Messaging
 * [#sre channel at Hangops Slack](https://hangops.slack.com/) - Discussion of Site Reliability Engineering generally.
 * [#incident_response channel at Hangops Slack](https://hangops.slack.com/) - Discussion about Incident Response.
+* [USENIX SREcon Slack](https://usenix-srecon.slack.com)
 
 ## Blogs
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) - Highly Technical Blog Posts About Systems Internals, Performance and SRE.
