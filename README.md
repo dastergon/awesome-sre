@@ -247,6 +247,7 @@ Contributions are always welcome!
 * [GitOps Part 3 - Observability](https://www.weave.works/blog/gitops-part-3-observability)
 * [Want to Debug Latency?](https://medium.com/observability/want-to-debug-latency-7aa48ecbe8f7)
 * [Debugging Latency in Go 1.11](https://medium.com/observability/debugging-latency-in-go-1-11-9f97a7910d68)
+* [Alerting on SLOs like Pros](https://developers.soundcloud.com/blog/alerting-on-slos)
 
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
