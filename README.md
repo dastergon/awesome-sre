@@ -290,6 +290,7 @@ Contributions are always welcome!
 * [Atlassian Incident Handbook](https://www.atlassian.com/software/jira/ops/handbook)
 * [PagerDuty Incident Response Handbook](https://response.pagerduty.com/)
 * [Avoiding Burnout for SREs](https://blog.zenduty.com/blog/2019/05/02/Avoiding-SRE-Burnout)
+* [Better On-Call the SRE way](https://vimeo.com/344516642)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
