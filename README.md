@@ -155,7 +155,7 @@ Contributions are always welcome!
 * [Distributed Systems Observability](http://distributed-systems-observability-ebook.humio.com/)
 * [Real-World SRE](https://www.packtpub.com/web-development/real-world-sre)
 * [Seeking SRE](http://shop.oreilly.com/product/0636920063964.do)
-
+* [What is SRE?](https://www.verizondigitalmedia.com/e-book/oreilly-what-is-sre/)
 ## Hiring
 * [SRE Hiring](https://www.usenix.org/conference/srecon15/program/presentation/fong)
 * [Hiring SREs at LinkedIn](https://engineering.linkedin.com/engineering-culture/hiring-sres-linkedin)
