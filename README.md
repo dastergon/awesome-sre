@@ -116,6 +116,7 @@ Contributions are always welcome!
 * [Solving Reliability Fears with Site Reliability Engineering](https://www.youtube.com/watch?v=ZcZtU_TiFEM)
 * [SRE vs. DevOps: competing standards or close friends?](https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends)
 * [How to Avoid the 5 SRE Implementation Traps that Catch Even the Best Teams]()
+* [Reliability Engineering – The Essential Discipline for Complex Systems](https://vimeo.com/344515149)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
