@@ -156,6 +156,8 @@ Contributions are always welcome!
 * [Real-World SRE](https://www.packtpub.com/web-development/real-world-sre)
 * [Seeking SRE](http://shop.oreilly.com/product/0636920063964.do)
 * [What is SRE?](https://www.verizondigitalmedia.com/e-book/oreilly-what-is-sre/)
+* [Engineering Reliable Mobile Applications: Strategies for Developing Resilient Native Mobile Applications](https://landing.google.com/sre/resources/practicesandprocesses/engineering-reliable-mobile-applications/)
+
 ## Hiring
 * [SRE Hiring](https://www.usenix.org/conference/srecon15/program/presentation/fong)
 * [Hiring SREs at LinkedIn](https://engineering.linkedin.com/engineering-culture/hiring-sres-linkedin)
