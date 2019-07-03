@@ -414,26 +414,9 @@ Contributions are always welcome!
 * [Site Reliability Engineering Munich, Germany](https://www.meetup.com/Site-Reliability-Engineering-Munich/) - SRE Meetup in the greater area of Oktoberfest city.
 
 ## Twitter
-* [Alice Goldfuss](https://twitter.com/alicegoldfuss)
-* [Brendan Gregg](https://twitter.com/brendangregg)
-* [Caitie McCaffrey](https://twitter.com/caitie)
-* [Charity Majors](https://twitter.com/mipsytipsy)
-* [Cindy Sridharan](https://twitter.com/copyconstruct)
-* [Dave Hahn](https://twitter.com/relix42)
-* [Highscal](https://twitter.com/highscal)
-* [Jennifer Petoff](https://twitter.com/jennski)
-* [Jesse Dearing](https://twitter.com/JesseDearing)
-* [Jonah Horowitz](https://twitter.com/jonahhorowitz)
-* [Julia Evans](https://twitter.com/b0rk)
-* [Krishelle Hardson-Hurley](https://twitter.com/khardsonhurley)
-* [Niall Murphy](https://twitter.com/niallm)
-* [Nick Craver](https://twitter.com/Nick_Craver)
 * [SREBook](https://twitter.com/SREBook) - The Official Twitter Account of Site Reliability Engineering Book.
-* [SREWorkbook](https://twitter.com/SREWorkbook) - The Official Twitter Account of Site Reliability Workbook.
 * [SREcon](https://twitter.com/SREcon) - SRECon's Official Twitter Account.
-* [Tammy Bütow](https://twitter.com/tammybutow)
-* [Thomas A. Limoncelli](https://twitter.com/yesthattom)
-* [Todd Underwood](https://twitter.com/tmu)
+* [SREWorkbook](https://twitter.com/SREWorkbook) - The Official Twitter Account of Site Reliability Workbook.
 * [Twitter SRE](https://twitter.com/TwitterSRE) - The Official Twitter Account of Twitter's SRE team.
 * [Twitter SRE Weekly](https://twitter.com/SREWeekly) - The Official Twitter Account of SRE Weekly Newsletter.
 * [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
