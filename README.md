@@ -418,6 +418,7 @@ Contributions are always welcome!
 * [SREBook](https://twitter.com/SREBook) - The Official Twitter Account of Site Reliability Engineering Book.
 * [SREcon](https://twitter.com/SREcon) - SRECon's Official Twitter Account.
 * [SREWorkbook](https://twitter.com/SREWorkbook) - The Official Twitter Account of Site Reliability Workbook.
+* [The SRE Dev](https://twitter.com/The_SRE_Dev) - SRE-related Posts from [dev.to](https://dev.to). 
 * [Twitter SRE](https://twitter.com/TwitterSRE) - The Official Twitter Account of Twitter's SRE team.
 * [Twitter SRE Weekly](https://twitter.com/SREWeekly) - The Official Twitter Account of SRE Weekly Newsletter.
 * [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
