@@ -414,6 +414,7 @@ Contributions are always welcome!
 * [Site Reliability Engineering Munich, Germany](https://www.meetup.com/Site-Reliability-Engineering-Munich/) - SRE Meetup in the greater area of Oktoberfest city.
 
 ## Twitter
+* [Google SRE Twitter Account](https://twitter.com/googlesre) - Google's SRE Twitter Account.
 * [SREBook](https://twitter.com/SREBook) - The Official Twitter Account of Site Reliability Engineering Book.
 * [SREcon](https://twitter.com/SREcon) - SRECon's Official Twitter Account.
 * [SREWorkbook](https://twitter.com/SREWorkbook) - The Official Twitter Account of Site Reliability Workbook.
