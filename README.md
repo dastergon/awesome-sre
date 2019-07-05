@@ -292,6 +292,7 @@ Contributions are always welcome!
 * [Avoiding Burnout for SREs](https://blog.zenduty.com/blog/2019/05/02/Avoiding-SRE-Burnout)
 * [Better On-Call the SRE way](https://vimeo.com/344516642)
 * [Managing Incidents at Monzo](https://www.youtube.com/watch?v=ZqwVlsIonIw)
+* [Making On-Call Not Suck](https://dev.to/molly_struve/making-on-call-not-suck-490)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
