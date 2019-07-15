@@ -293,6 +293,7 @@ Contributions are always welcome!
 * [Better On-Call the SRE way](https://vimeo.com/344516642)
 * [Managing Incidents at Monzo](https://www.youtube.com/watch?v=ZqwVlsIonIw)
 * [Making On-Call Not Suck](https://dev.to/molly_struve/making-on-call-not-suck-490)
+* [How we (Monzo) respond to incidents](https://monzo.com/blog/2019/07/08/how-we-respond-to-incidents)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
