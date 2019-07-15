@@ -137,6 +137,7 @@ Contributions are always welcome!
 * [How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)
 * [Do you have an SRE team yet? How to start and assess your journey](https://cloud.google.com/blog/products/devops-sre/how-to-start-and-assess-your-sre-journey)
 * [How SRE teams are organized, and how to get started](https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started)
+* [Why SRE Documents Matter](https://queue.acm.org/detail.cfm?id=3283589)
 
 ## Books
 * [Practical Linux Infrastructure](https://www.apress.com/us/book/9781484205129)
