@@ -46,7 +46,7 @@ Contributions are always welcome!
 * From Sys Admin to Netflix SRE - [video](https://www.youtube.com/watch?v=lZI51YzIgVE) and [slides](https://www.socallinuxexpo.org/sites/default/files/presentations/Scale%20x14%20Slides.pdf)
 * [SRE@Google: Thousands of DevOps Since 2004](https://www.youtube.com/watch?v=iIuTnhdTzK0)
 * [Transactional System Administration Is Killing Us and Must be Stopped](https://www.usenix.org/conference/lisa15/conference-program/presentation/limoncelli)
-* [A hierarchy of SRE needs](https://plus.google.com/+lizthegrey/posts/MLAJFVyEb2f)
+* [A hierarchy of SRE needs](https://web.archive.org/web/20190401220948/https://plus.google.com/+lizthegrey/posts/MLAJFVyEb2f)
 * [PostOps: A Non-Surgical Tale of Software, Fragility, and Reliability](https://www.usenix.org/conference/lisa13/technical-sessions/plenary/underwood)
 * [SRE: An incomplete guide to cultural Narnia](https://web.archive.org/web/20180820235243/http://anthonycaiafa.com/2016/04/10/sre-cultural-narnia/) - [[Video]](https://www.youtube.com/watch?v=__wypEhdcrQ&t=0s)
 * [Putting Together Great SRE Teams](https://www.usenix.org/conference/srecon16/program/presentation/krishnan)
