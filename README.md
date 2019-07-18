@@ -115,7 +115,7 @@ Contributions are always welcome!
 * [Building Successful SRE in Large Enterprises](https://drive.google.com/file/d/1FXwHm6mpmRA9NaIJEu4cB1s6ffbyGBfl/view)
 * [Solving Reliability Fears with Site Reliability Engineering](https://www.youtube.com/watch?v=ZcZtU_TiFEM)
 * [SRE vs. DevOps: competing standards or close friends?](https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends)
-* [How to Avoid the 5 SRE Implementation Traps that Catch Even the Best Teams]()
+* [How to Avoid the 5 SRE Implementation Traps that Catch Even the Best Teams](https://thenewstack.io/how-to-avoid-the-5-sre-implementation-traps-that-catch-even-the-best-teams/)
 * [Reliability Engineering – The Essential Discipline for Complex Systems](https://vimeo.com/344515149)
 
 ## Education
