@@ -409,6 +409,7 @@ Contributions are always welcome!
 * [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
 * [GopherSRE](http://www.gophersre.com/) - Blog Posts about Go and SRE.
 * [Cindy Sridharan](https://medium.com/@copyconstruct) - Blog posts about distributed systems and their management.
+* [Blameless Blog](https://www.blameless.com/blog/) - Blog posts about SRE culture and practices.
 
 ## Conferences & Meetups
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The Official SRE Conference.
