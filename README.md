@@ -229,6 +229,7 @@ Contributions are always welcome!
 * [Google Cloud Production Guideline](https://medium.com/google-cloud/production-guideline-9d5d10c8f1e)
 * [production readiness](https://jbd.dev/prod-readiness/)
 * [Trust By Design: The Fusion of Operational Maturity and Risk Modeling](https://www.youtube.com/watch?v=Vvd3uvNvMns)
+* [Top Seven Myths of Robust Systems](https://www.verica.io/top-seven-myths-of-robust-systems/)
 
 ## Monitoring & Observability & Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
