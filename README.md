@@ -364,6 +364,7 @@ Contributions are always welcome!
 * [How many nines is my storage system?](https://medium.com/@jamesacowling/how-many-nines-is-my-storage-system-7d16e852d56d)
 * [Don't follow the sun.](https://lethain.com/dont-follow-the-sun/)
 * [The Tyranny of the SLA](https://www.youtube.com/watch?v=4cPqLuIXBnw)
+* [Backblaze Durability is 99.999999999% — And Why It Doesn’t Matter](https://www.backblaze.com/blog/cloud-storage-durability/)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
