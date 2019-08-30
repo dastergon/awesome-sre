@@ -28,6 +28,7 @@ Contributions are always welcome!
 - [Blogs](#blogs)
 - [Conferences & Meetups](#conferences--meetups)
 - [Twitter](#twitter)
+- [SRE Tools](#sre-tools)
 
 ## Culture
 * [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
@@ -444,3 +445,6 @@ Contributions are always welcome!
 * [Twitter SRE](https://twitter.com/TwitterSRE) - The Official Twitter Account of Twitter's SRE team.
 * [Twitter SRE Weekly](https://twitter.com/SREWeekly) - The Official Twitter Account of SRE Weekly Newsletter.
 * [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
+
+## SRE Tools
+* [Awesome SRE Tools](https://github.com/squadcastHQ/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
