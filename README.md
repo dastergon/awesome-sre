@@ -450,3 +450,4 @@ Contributions are always welcome!
 
 ## SRE Tools
 * [Awesome SRE Tools](https://github.com/squadcastHQ/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
+* [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
