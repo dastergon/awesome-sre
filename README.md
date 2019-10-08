@@ -120,6 +120,7 @@ Contributions are always welcome!
 * [Reliability Engineering – The Essential Discipline for Complex Systems](https://vimeo.com/344515149)
 * [The Modern Site Reliability Workbench on Top of OCI](https://www.youtube.com/watch?v=bC5dIPzNH24)
 * [SRE in the Third Age](https://www.usenix.org/conference/srecon19emea/presentation/rabenstein)
+* [About SRE and how (not) to apply it](https://www.youtube.com/watch?v=vF6ajM3P_wM)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
