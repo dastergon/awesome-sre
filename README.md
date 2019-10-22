@@ -312,6 +312,7 @@ Contributions are always welcome!
 * [MTTR is dead, long live CIRT](https://opensource.com/article/19/7/measure-operational-performance)
 * [Extended Dreyfus Model for Incident Lifecycles](https://github.com/preed/incident-lifecycle-model)
 * [Inhumanity of Root Cause Analysis](https://www.verica.io/inhumanity-of-root-cause-analysis/)
+* [Incident insights from NASA, NTSB, and the CDC](https://www.youtube.com/watch?v=ODYO2MPymJ4)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
