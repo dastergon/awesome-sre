@@ -267,6 +267,7 @@ Contributions are always welcome!
 * [Alerting on SLOs like Pros](https://developers.soundcloud.com/blog/alerting-on-slos)
 * [Applied Alerting Philosophy](https://www.youtube.com/watch?v=JhxfZ0VIPP0)
 * [Observations on Observability](https://blog.colinbreck.com/observations-on-observability/)
+* [Deploys: It's Not Actually About Fridays](https://charity.wtf/2019/10/28/deploys-its-not-actually-about-fridays/)
 
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
