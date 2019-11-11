@@ -122,6 +122,7 @@ Contributions are always welcome!
 * [SRE in the Third Age](https://www.usenix.org/conference/srecon19emea/presentation/rabenstein)
 * [About SRE and how (not) to apply it](https://www.youtube.com/watch?v=vF6ajM3P_wM)
 * [Transitioning a typical engineering ops team into an SRE powerhouse](https://cloud.google.com/blog/products/management-tools/transitioning-a-typical-engineering-ops-team-into-an-sre-powerhouse)
+* [Making a Lion Bulletproof: SRE in Banking](https://www.infoq.com/presentations/ing-sre-teams-practices/)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
