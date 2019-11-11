@@ -270,6 +270,7 @@ Contributions are always welcome!
 * [Applied Alerting Philosophy](https://www.youtube.com/watch?v=JhxfZ0VIPP0)
 * [Observations on Observability](https://blog.colinbreck.com/observations-on-observability/)
 * [Deploys: It's Not Actually About Fridays](https://charity.wtf/2019/10/28/deploys-its-not-actually-about-fridays/)
+* [Site Reliability Engineering Best Practices for Data Pipelines](https://medium.com/better-programming/site-reliability-engineering-best-practices-for-data-pipelines-44a78e91f6f0)
 
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
