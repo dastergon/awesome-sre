@@ -381,6 +381,7 @@ Contributions are always welcome!
 * [The Tyranny of the SLA](https://www.youtube.com/watch?v=4cPqLuIXBnw)
 * [Backblaze Durability is 99.999999999% — And Why It Doesn’t Matter](https://www.backblaze.com/blog/cloud-storage-durability/)
 * [DevOpsDays Chicago 2019 - The Art of SLOs](https://youtu.be/Dfnbw5dJQ5I)
+* [The Art of SLOs Workshop Materials](https://cre.page.link/art-of-slos)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
