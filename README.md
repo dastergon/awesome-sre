@@ -382,6 +382,7 @@ Contributions are always welcome!
 * [Backblaze Durability is 99.999999999% — And Why It Doesn’t Matter](https://www.backblaze.com/blog/cloud-storage-durability/)
 * [DevOpsDays Chicago 2019 - The Art of SLOs](https://youtu.be/Dfnbw5dJQ5I)
 * [The Art of SLOs Workshop Materials](https://cre.page.link/art-of-slos)
+* [How to Include Latency in SLO-Based Alerting](https://grafana.com/blog/2019/11/27/kubecon-recap-how-to-include-latency-in-slo-based-alerting/)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
