@@ -238,7 +238,7 @@ Contributions are always welcome!
 * [Top Seven Myths of Robust Systems](https://www.verica.io/top-seven-myths-of-robust-systems/)
 * [Taming chaos: Preparing for your next incident](https://www.oreilly.com/ideas/taming-chaos-preparing-for-your-next-incident)
 * [PID Loops and the Art of Keeping Systems Stable](https://www.youtube.com/watch?v=3AxSwCC7I4s)
-* [Are you ready for production?](https://speakerdeck.com/rakyll/are-you-ready-for-production)
+* [Are you ready for production?](https://www.youtube.com/watch?v=YptJ2rrGAYY) - [Slides](https://speakerdeck.com/rakyll/are-you-ready-for-production)
 
 ## Monitoring & Observability & Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
