@@ -477,5 +477,5 @@ Contributions are always welcome!
 * [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
 
 ## SRE Tools
-* [Awesome SRE Tools](https://github.com/squadcastHQ/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
+* [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
