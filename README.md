@@ -26,6 +26,7 @@ Contributions are always welcome!
 - [Performance](#performance)
 - [Misc Articles](#misc-articles)
 - [Blogs](#blogs)
+- [Newsletters](#newsletters)
 - [Conferences & Meetups](#conferences--meetups)
 - [Twitter](#twitter)
 - [SRE Tools](#sre-tools)
@@ -444,19 +445,23 @@ Contributions are always welcome!
 * [Everything Sysadmin](http://everythingsysadmin.com/) - Blog Posts About SysAdmin/DevOps/SRE by Tom Limoncelli.
 * [High Scalability](http://highscalability.com/) - Technical Blog Posts About Systems Architecture.
 * [rachelbythebay](https://rachelbythebay.com/w/) - Techincal Blog Posts.
-* [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
 * [Production Ready](https://tinyletter.com/production-ready) - A mailing list about building resilient infrastructure and tools.
 * [Susan J. Fowler](http://www.susanjfowler.com/blog/) - Various blog posts about SRE, Software Engineering and Microservices.
 * [SysAdvent](https://sysadvent.blogspot.com) - One article for each day of December, ending on the 25th article.
 * [Operations for Developers](http://some.ops4devs.info/) - A collection of resources for developers to strengthen their Ops skills.
 * [Stephen Thorne's Blog](https://medium.com/@jerub) - Blog Posts About SRE
 * [Increment](https://increment.com/) - A digital magazine about how teams build and operate software systems at scale.
-* [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
 * [GopherSRE](http://www.gophersre.com/) - Blog Posts about Go and SRE.
 * [Cindy Sridharan](https://medium.com/@copyconstruct) - Blog posts about distributed systems and their management.
 * [Blameless Blog](https://www.blameless.com/blog/) - Blog posts about SRE culture and practices.
 * [Resilience Roundup](https://ResilienceRoundup.com) - Weekly analysis of Resilience Engineering and Human Factors research designed for software systems
 * [Squadcast Blog](https://www.squadcast.com/blog) - Blog posts about SRE best practices, reliability, on-call and incident management. 
+
+## Newsletters
+* [DevOpsLinks](https://faun.dev) - A weekly newsletter about SRE, SysAdmin and DevOps news, tools, tutorials and opinions.
+* [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
+* [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
+
 
 ## Conferences & Meetups
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The Official SRE Conference.
