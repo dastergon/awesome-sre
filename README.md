@@ -69,7 +69,7 @@ Contributions are always welcome!
 * [SE-Radio Episode 276: Björn Rabenstein on Site Reliability Engineering](http://www.se-radio.net/2016/12/se-radio-episode-276-bjorn-rabenstein-on-site-reliability-engineering/)
 * [Microservices, DevOps and Production Complexity](https://blog.netsil.com/microservices-devops-and-operational-complexity-be98cb01b660)
 * [Introducing Google Customer Reliability Engineering](https://cloudplatform.googleblog.com/2016/10/introducing-a-new-era-of-customer-support-Google-Customer-Reliability-Engineering.html)
-* [Evolution or Rebellion? The rise of Site Reliability Engineers (SRE)](http://126kr.com/article/7vkoxnk6s01)
+* [Evolution or Rebellion? The rise of Site Reliability Engineers (SRE)](https://robhirschfeld.com/2016/12/29/evolution-or-rebellion-the-rise-of-site-reliability-engineers-sre/)
 * [The difference between Site Reliability Engineering, System Administration, and DevOps](https://standalone-sysadmin.com/the-difference-between-site-reliability-engineering-system-administration-and-devops-d05031495499)
 * [SRE in the Small and in the Large](https://www.usenix.org/conference/lisa16/conference-program/presentation/closing-plenary)
 * [SBSRE Meetup: Different SRE roles and challenges(Netflix)](https://www.youtube.com/watch?v=zLXf0cKDOv0)
