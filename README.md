@@ -408,6 +408,10 @@ Contributions are always welcome!
 * [Putting customers first with SLIs and SLOs](https://medium.com/the-telegraph-engineering/putting-customers-first-with-slis-and-slos-15352f9b6cbc)
 * [SRE Leadership: Have Tiered SLAs](https://medium.com/site-reliability-engineering-leadership/sre-tip-have-tiered-slas-2c432ffe46a)
 * [How SLOs Enable Fast, Reliable Application Delivery](https://www.blameless.com/blog/how-slos-enable-fast-reliable-application-delivery)
+* [The Tail at Scale
+](https://billduncan.org/the-tail-at-scale/)
+* [The Tail at Scale Revisited
+](https://billduncan.org/the-tail-at-scale-revisited/)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
