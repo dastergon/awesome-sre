@@ -127,6 +127,7 @@ Contributions are always welcome!
 * [Identifying and tracking toil using SRE principles](https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles)
 * [From Ops to SRE: Evolution of the OpenShift Dedicated
   Team](https://www.openshift.com/blog/from-ops-to-sre-evolution-of-the-openshift-dedicated-team)
+* [Meeting reliability challenges with SRE principles](https://cloud.google.com/blog/products/management-tools/meeting-reliability-challenges-with-sre-principles)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
