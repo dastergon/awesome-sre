@@ -430,6 +430,7 @@ Contributions are always welcome!
 * [Go for SREs using Python](https://www.usenix.org/sites/default/files/conference/protected-files/srecon16_slides_hamilton.pdf)
 * [Operability in Go](https://speakerdeck.com/ianschenck/operability-in-go)
 * [Go Reliability and Durability at Dropbox](https://www.youtube.com/watch?v=5doOcaMXx08)
+* [Go learning handson platform](https://gopherlabs.kubedaily.com)
 
 ## Misc Articles
 * [What is SRE (Site Reliability Engineering)?](https://www.oreilly.com/ideas/what-is-sre-site-reliability-engineering)
