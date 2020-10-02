@@ -129,6 +129,7 @@ Contributions are always welcome!
   Team](https://www.openshift.com/blog/from-ops-to-sre-evolution-of-the-openshift-dedicated-team)
 * [Meeting reliability challenges with SRE principles](https://cloud.google.com/blog/products/management-tools/meeting-reliability-challenges-with-sre-principles)
 * [A quick introduction to SRE principles](https://github.com/fhivemind/sre-playground)
+* [The SRE I Aspire to Be](https://www.youtube.com/watch?v=KnC2eRUZMKY)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
