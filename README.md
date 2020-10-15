@@ -200,7 +200,7 @@ Contributions are always welcome!
 * [Push our limits - reliability testing at Twitter](https://blog.twitter.com/2014/push-our-limits-reliability-testing-at-twitter)
 * [The Verification of a Distributed System by Caitie McCaffrey](http://queue.acm.org/detail.cfm?ref=rss&id=2889274)
 * [Weathering the Unexpected](http://queue.acm.org/detail.cfm?id=2371516)
-* [The Remediation Ballet](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1492182549.pdf)
+* [The Remediation Ballet](https://digital-forensics.sans.org/summit-archives/file/summit-archive-1492182549.pdf)
 * [SRE Hour: Tech Talks by Box & Yelp](https://www.youtube.com/watch?v=YFDwdRVTg4g)
 * [Simplicity: A Prerequisite for Reliability](https://medium.com/production-ready/simplicity-a-prerequisite-for-reliability-8d000f8d18df#.74t9t0em2)
 * [The Two Sides to Google Infrastructure for Everyone Else](https://speakerdeck.com/garethr/the-two-sides-to-google-infrastructure-for-everyone-else)
