@@ -156,6 +156,7 @@ Contributions are always welcome!
 * [Designing distributed systems using NALSD flashcards](https://cloud.google.com/blog/products/management-tools/sre-principles-and-flashcards-to-design-nalsd)
 * [Training Site Reliability Engineers: What Your Organization Needs to Create a Learning Program](https://landing.google.com/sre/resources/practicesandprocesses/training-site-reliability-engineers)
 * [SRE Classroom: Distributed PubSub workshop](https://landing.google.com/sre/resources/practicesandprocesses/sre-classroom/)
+* [School of SRE: Curriculum for onboarding non-traditional hires and new grads](https://linkedin.github.io/school-of-sre/)
 
 ## Books
 * [Practical Linux Infrastructure](https://www.apress.com/us/book/9781484205129)
