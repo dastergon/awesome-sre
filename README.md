@@ -182,6 +182,7 @@ Contributions are always welcome!
 * [Engineering Reliable Mobile Applications: Strategies for Developing Resilient Native Mobile Applications](https://landing.google.com/sre/resources/practicesandprocesses/engineering-reliable-mobile-applications/)
 * [Building Secure and Reliable Systems](https://landing.google.com/sre/book.html)
 * [Chaos Engineering: Crash test your applications](https://www.manning.com/books/chaos-engineering/)
+* [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/)
 
 ## Hiring
 * [SRE Hiring](https://www.usenix.org/conference/srecon15/program/presentation/fong)
