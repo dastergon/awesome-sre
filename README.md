@@ -130,6 +130,7 @@ Contributions are always welcome!
 * [Meeting reliability challenges with SRE principles](https://cloud.google.com/blog/products/management-tools/meeting-reliability-challenges-with-sre-principles)
 * [A quick introduction to SRE principles](https://github.com/fhivemind/sre-playground)
 * [The SRE I Aspire to Be](https://www.youtube.com/watch?v=KnC2eRUZMKY)
+* [Taming Operational Load with VMware CRE](https://tanzu.vmware.com/content/blog/taming-operational-load-vmware-cre)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
