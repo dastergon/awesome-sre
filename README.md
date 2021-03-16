@@ -385,7 +385,6 @@ Contributions are always welcome!
 
 
 ## Service Level Agreement
-* [SLA Aware Maintenance for Operators - Joe Smith](https://www.youtube.com/watch?v=tZ0-SISvCis)
 * [If It's in the Cloud, Get It on Paper: Cloud Computing Contract Issues](http://er.educause.edu/articles/2010/6/if-its-in-the-cloud-get-it-on-paper-cloud-computing-contract-issues)
 * [Service Level Agreements in the Cloud: Who cares?](http://www.wired.com/insights/2011/12/service-level-agreements-in-the-cloud-who-cares/)
 * [Making a point with SLAs](https://blog.serverdensity.com/making-a-point-with-slas/)
