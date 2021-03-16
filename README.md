@@ -81,7 +81,6 @@ Contributions are always welcome!
 * [SRE vs. DevOps vs. Cloud Native: The Server Cage Match](https://devops.com/sre-devops-cloud-native-server-cage-match/)
 * [SRE: What’s The Big Idea?](https://youtu.be/8dfYLRAWn_c)
 * [Building the SRE Culture at LinkedIn](https://engineering.linkedin.com/blog/2017/05/building-the-sre-culture-at-linkedin)
-* [SRE white paper by RackN](https://rackn.com/sre-white-paper/)
 * [Podcast #111 – SRE: Occasionally Maintaining Infrastructure That You Hate](https://stackoverflow.blog/2017/06/12/podcast-111-sre-occasionally-maintaining-infrastructure-hate/)
 * [Splicing SRE DNA Sequences in the Biggest Software Company on the Planet](https://www.usenix.org/conference/srecon16europe/program/presentation/splicing-sre-dna-sequences-biggest-software-company)
 * [Why should your app get SRE support? - CRE life lessons](https://cloudplatform.googleblog.com/2017/06/why-should-your-app-get-SRE-support-CRE-life-lessons.html)
@@ -176,7 +175,6 @@ Contributions are always welcome!
 * [Antifragile Systems and Teams](http://www.oreilly.com/webops-perf/free/antifragile-systems-and-teams.csp)
 * [How to Monitoring the SRE Golden Signals (E-Book)](https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook/)
 * [Incident Management for Operations](http://shop.oreilly.com/product/0636920036159.do)
-* [Distributed Systems Observability](http://distributed-systems-observability-ebook.humio.com/)
 * [Real-World SRE](https://www.packtpub.com/web-development/real-world-sre)
 * [Seeking SRE](http://shop.oreilly.com/product/0636920063964.do)
 * [What is SRE?](https://www.verizondigitalmedia.com/e-book/oreilly-what-is-sre/)
@@ -476,7 +474,6 @@ Contributions are always welcome!
 * [rachelbythebay](https://rachelbythebay.com/w/) - Techincal Blog Posts.
 * [Susan J. Fowler](http://www.susanjfowler.com/blog/) - Various blog posts about SRE, Software Engineering and Microservices.
 * [SysAdvent](https://sysadvent.blogspot.com) - One article for each day of December, ending on the 25th article.
-* [Operations for Developers](http://some.ops4devs.info/) - A collection of resources for developers to strengthen their Ops skills.
 * [Stephen Thorne's Blog](https://medium.com/@jerub) - Blog Posts About SRE
 * [Increment](https://increment.com/) - A digital magazine about how teams build and operate software systems at scale.
 * [GopherSRE](http://www.gophersre.com/) - Blog Posts about Go and SRE.
@@ -500,7 +497,6 @@ Contributions are always welcome!
 * [SRE Tech Talks](https://developers.google.com/events/sre/) - SRE Talks Hosted by Google.
 * [South Bay Site Reliability Engineering (Sunnyvale, CA) Meetup](https://www.meetup.com/South-Bay-Site-Reliability-Engineering/) - A Group For Individuals Who Tackle Reliability Challenges For Web-Scale Systems.
 * [San Francisco Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/) - A Group Of People Who Are Passionate About Reliable, Performant Software Systems.
-* [Front Range Site Reliability Engineering](https://www.meetup.com/site-reliability/) - SRE Meetup in Boulder/Denver/Golden/DTC/FoCo area.
 * [Site Reliability Engineering Munich, Germany](https://www.meetup.com/Site-Reliability-Engineering-Munich/) - SRE Meetup in the greater area of Oktoberfest city.
 * [ADDO - All Day DevOps](https://www.alldaydevops.com/) - A 24 hour conference that is completely online and free.
 * [Site Reliability Engineering Paris, France](https://www.meetup.com/Site-Reliability-Engineering-Paris/) - SRE Meetup in the city of light.
