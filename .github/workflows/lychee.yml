@@ -3,7 +3,7 @@ name: Lychee-Checker
 on:
   push:
   schedule:
-    - cron: "0 0 */7 * *"
+    - cron: "0 0 1 * *"
 
 jobs:
   linkChecker:
