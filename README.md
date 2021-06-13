@@ -482,6 +482,7 @@ Contributions are always welcome!
 * [Squadcast Blog](https://www.squadcast.com/blog) - Blog posts about SRE best practices, reliability, on-call and incident management.
 * [FireHydrant Blog](https://www.firehydrant.io/blog) - Posts about complex systems, incident response, and SRE best practices.
 * [Rootly Blog](https://www.rootly.io/blog) - Incident management best practices and guides.
+* [Keet Sugathadasa's Blog](https://keetmalin.wixsite.com/keetmalin/blog) - Blog post about SRE, Software Engineering and Devops.
 
 ## Newsletters
 * [DevOpsLinks](https://faun.dev) - A weekly newsletter about SRE, SysAdmin and DevOps news, tools, tutorials and opinions.
