@@ -30,6 +30,7 @@ Contributions are always welcome!
 - [Conferences & Meetups](#conferences--meetups)
 - [Twitter](#twitter)
 - [SRE Tools](#sre-tools)
+- [Chaos Engineering](#chaos-engineering)
 
 ## Culture
 * [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
@@ -515,3 +516,6 @@ Contributions are always welcome!
 ## SRE Tools
 * [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
+
+## Chaos Engineering
+* [Chaos Engineering Tech Talk by Keet](https://www.youtube.com/watch?v=GMwtQYFlojU) - An introduction into Chaos Engineering with a demonstration
