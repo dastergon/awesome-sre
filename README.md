@@ -346,7 +346,8 @@ Contributions are always welcome!
 * [Incident response, programs and you(r startup)](https://lethain.com/incident-response-programs-and-your-startup/)
 * [An Incident Command Training Handbook](https://blog.danslimmon.com/2019/06/24/an-incident-command-training-handbook/)
 * [Shrinking the time to mitigate production incidents](https://cloud.google.com/blog/products/management-tools/shrinking-the-time-to-mitigate-production-incidents)
-
+* [Incident writeup as sociological storytelling](https://surfingcomplexity.blog/2021/06/11/incident-writeup-as-sociological-storytelling/)a
+* 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
 * [Collection of Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
