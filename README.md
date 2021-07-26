@@ -132,6 +132,7 @@ Contributions are always welcome!
 * [Taming Operational Load with VMware CRE](https://tanzu.vmware.com/content/blog/taming-operational-load-vmware-cre)
 * [SRE Cultural Values](https://dubrie.medium.com/sre-cultural-values-a0073b475183)
 * [Are we there yet? Thoughts on assessing an SRE team’s maturity](https://cloud.google.com/blog/products/devops-sre/evaluating-where-your-team-lies-on-the-sre-spectrum)
+* [Do you really have a Site Reliability Engineering(SRE) Team ?](https://ashutosh-kumartech.medium.com/want-to-have-an-effective-site-reliability-engineering-team-8700fdaec451)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
