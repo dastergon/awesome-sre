@@ -13,23 +13,29 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 Contributions are always welcome!
 
 ## Contents
-- [Culture](#culture)
-- [Education](#education)
-- [Books](#books)
-- [Hiring](#hiring)
-- [Reliability](#reliability)
-- [Monitoring & Observability & Alerting](#monitoring--observability--alerting)
-- [On-Call](#on-call)
-- [Post-Mortem](#post-mortem)
-- [Capacity Planning](#capacity-planning)
-- [Service Level Agreement](#service-level-agreement)
-- [Performance](#performance)
-- [Misc Articles](#misc-articles)
-- [Blogs](#blogs)
-- [Newsletters](#newsletters)
-- [Conferences & Meetups](#conferences--meetups)
-- [Twitter](#twitter)
-- [SRE Tools](#sre-tools)
+- [Awesome Site Reliability Engineering  ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-site-reliability-engineering--)
+      - [What is Site Reliability Engineering?](#what-is-site-reliability-engineering)
+  - [Contributing](#contributing)
+  - [Contents](#contents)
+  - [Culture](#culture)
+  - [Education](#education)
+  - [Books](#books)
+  - [Hiring](#hiring)
+  - [Reliability](#reliability)
+  - [Monitoring & Observability & Alerting](#monitoring--observability--alerting)
+  - [On-Call](#on-call)
+  - [Post-Mortem](#post-mortem)
+  - [Capacity Planning](#capacity-planning)
+  - [Service Level Agreement](#service-level-agreement)
+  - [Performance](#performance)
+  - [Programming](#programming)
+  - [Misc Articles](#misc-articles)
+  - [Real-time Messaging](#real-time-messaging)
+  - [Blogs](#blogs)
+  - [Newsletters](#newsletters)
+  - [Conferences & Meetups](#conferences--meetups)
+  - [Twitter](#twitter)
+  - [SRE Tools](#sre-tools)
 
 ## Culture
 * [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
@@ -464,6 +470,7 @@ Contributions are always welcome!
 * [SRECon EMEA 2019 Recap](https://speakerdeck.com/dastergon/srecon-emea-2019-recap-sre-muc-meetup)
 * [Life of an SRE at Google - JC van Winkel](https://www.youtube.com/watch?v=7Oe8mYPBZmw)
 * [Site Reliability Engineering for Native Mobile Apps - Abhijith Krishnappa](https://www.infoq.com/articles/site-reliability-engineering-mobile-apps/) - Case study: Halodoc adaptation of SRE principles for Native Mobile Apps
+* [SRE Best Practices](https://www.infracloud.io/blogs/sre-best-practices/)
 
 ## Real-time Messaging
 * [#sre channel at Hangops Slack](https://hangops.slack.com/) - Discussion of Site Reliability Engineering generally.
