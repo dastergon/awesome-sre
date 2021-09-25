@@ -13,10 +13,6 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 Contributions are always welcome!
 
 ## Contents
-- [Awesome Site Reliability Engineering  ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-site-reliability-engineering--)
-      - [What is Site Reliability Engineering?](#what-is-site-reliability-engineering)
-  - [Contributing](#contributing)
-  - [Contents](#contents)
   - [Culture](#culture)
   - [Education](#education)
   - [Books](#books)
