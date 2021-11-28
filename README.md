@@ -426,6 +426,7 @@ Contributions are always welcome!
 * [The Tail at Scale](https://billduncan.org/the-tail-at-scale/)
 * [The Tail at Scale Revisited](https://billduncan.org/the-tail-at-scale-revisited/)
 * [Defining SLOs for services with dependencies](https://cloud.google.com/blog/products/gcp/defining-slos-for-services-with-dependencies-cre-life-lessons)
+* [Service Level Disagreements](https://blog.b3k.us/2009/07/15/service-level-disagreements.html)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
