@@ -352,6 +352,7 @@ Contributions are always welcome!
 * [Shrinking the time to mitigate production incidents](https://cloud.google.com/blog/products/management-tools/shrinking-the-time-to-mitigate-production-incidents)
 * [Incident writeup as sociological storytelling](https://surfingcomplexity.blog/2021/06/11/incident-writeup-as-sociological-storytelling/)
 * [Elephant in the Blameless War Room: Accountability](https://www.blameless.com/incident-response/elephant-in-the-blameless-war-room-accountability)
+* [Naming names in incident writeups](https://surfingcomplexity.blog/2021/05/22/naming-names-in-incident-writeups/)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
