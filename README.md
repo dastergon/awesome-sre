@@ -435,6 +435,7 @@ Contributions are always welcome!
 * [Measuring Reliability in GCP: Step By Step SLO creation guide using Cloud Operation Sandbox](https://medium.com/google-cloud/measuring-reliability-in-gcp-step-by-step-slo-creation-guide-using-cloud-operation-sandbox-99043bd0e70f)
 * [SLO tracker](https://slotracker.com/)
 * [SLO Alerting for Mortals](https://ervinbarta.com/2021/10/19/slo-alerting-for-mortals/)
+* [SRE methods and climate change](https://bpetit.nce.re/2021/03/sre-methods-and-climate-change/)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
