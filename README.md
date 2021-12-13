@@ -186,6 +186,7 @@ Contributions are always welcome!
 * [Building Secure and Reliable Systems](https://landing.google.com/sre/book.html)
 * [Chaos Engineering: Crash test your applications](https://www.manning.com/books/chaos-engineering/)
 * [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/)
+* [Four Steps to Creating Effective Game Day Tests](https://shopify.engineering/four-steps-creating-effective-game-day-tests)
 
 ## Hiring
 * [SRE Hiring](https://www.usenix.org/conference/srecon15/program/presentation/fong)
