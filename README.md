@@ -262,6 +262,7 @@ Contributions are always welcome!
 * [The Production Readiness Spectrum](https://dastergon.gr/posts/2020/09/the-production-readiness-spectrum/)
 * [Generic mitigations](https://www.oreilly.com/content/generic-mitigations/)
 * [How we’re building a production readiness review process at Grafana Labs](https://grafana.com/blog/2021/10/13/how-were-building-a-production-readiness-review-process-at-grafana-labs/)
+* [Resiliency Planning for High-Traffic Events](https://shopify.engineering/resiliency-planning-for-high-traffic-events)
 
 ## Monitoring & Observability & Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
