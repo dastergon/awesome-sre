@@ -436,6 +436,7 @@ Contributions are always welcome!
 * [SLO tracker](https://slotracker.com/)
 * [SLO Alerting for Mortals](https://ervinbarta.com/2021/10/19/slo-alerting-for-mortals/)
 * [SRE methods and climate change](https://bpetit.nce.re/2021/03/sre-methods-and-climate-change/)
+* [What made SLOs so messy (and what we can do about it)](https://medium.com/lightstephq/what-made-slos-so-messy-and-what-we-can-do-about-it-89be415a80b3)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
