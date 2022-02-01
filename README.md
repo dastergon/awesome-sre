@@ -32,6 +32,7 @@ Contributions are always welcome!
   - [Conferences & Meetups](#conferences--meetups)
   - [Twitter](#twitter)
   - [SRE Tools](#sre-tools)
+  - [Podcasts](#podcasts)
 
 ## Culture
 * [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
@@ -534,3 +535,11 @@ Contributions are always welcome!
 * [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
 * [SRE cheat sheet](https://github.com/shibumi/SRE-cheat-sheet) - A cheat sheet for Site Reliability Engineering principles and numbers
+
+## Podcasts
+* [Ship It!](https://changelog.com/shipit)
+* [Software Misadventures](https://softwaremisadventures.com/)
+* [Screaming in the Cloud](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/)
+* [Break Things on Purpose](https://www.gremlin.com/podcast/)
+* [Serverless Chats](https://www.serverlesschats.com/)
+* [The Cloud Pod](https://www.thecloudpod.net/)
