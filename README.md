@@ -478,6 +478,7 @@ Contributions are always welcome!
 * [Life of an SRE at Google - JC van Winkel](https://www.youtube.com/watch?v=7Oe8mYPBZmw)
 * [Site Reliability Engineering for Native Mobile Apps - Abhijith Krishnappa](https://www.infoq.com/articles/site-reliability-engineering-mobile-apps/) - Case study: Halodoc adaptation of SRE principles for Native Mobile Apps
 * [SRE Best Practices by InfraCloud](https://www.infracloud.io/blogs/sre-best-practices/)
+* [Business Observability - The next frontier of Full Stack Observability](https://www.chaosgenius.io/blog/business-observability-the-next-frontier-of-full-stack-observability/)
 
 ## Real-time Messaging
 * [#sre channel at Hangops Slack](https://hangops.slack.com/) - Discussion of Site Reliability Engineering generally.
