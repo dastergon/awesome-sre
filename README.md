@@ -131,6 +131,7 @@ Contributions are always welcome!
 * [SRE Cultural Values](https://dubrie.medium.com/sre-cultural-values-a0073b475183)
 * [Are we there yet? Thoughts on assessing an SRE team’s maturity](https://cloud.google.com/blog/products/devops-sre/evaluating-where-your-team-lies-on-the-sre-spectrum)
 * [What SREs have to do with project-based services?](https://www.linkedin.com/pulse/what-sres-have-do-project-based-services-rod-anami/)
+* [Making operational work more visible](https://github.com/readme/guides/ops-work-visible)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
