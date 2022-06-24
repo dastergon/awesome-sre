@@ -28,6 +28,7 @@ Contributions are always welcome!
 - [Blogs](#blogs)
 - [Conferences & Meetups](#conferences--meetups)
 - [Twitter](#twitter)
+- [Podcast](#podcast)
 
 ## Culture
 * [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
@@ -442,3 +443,12 @@ Contributions are always welcome!
 * [Twitter SRE](https://twitter.com/TwitterSRE) - The Official Twitter Account of Twitter's SRE team.
 * [Twitter SRE Weekly](https://twitter.com/SREWeekly) - The Official Twitter Account of SRE Weekly Newsletter.
 * [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
+
+## Podcast
+* [Blameless / Resilience in Action](https://podcasts.apple.com/us/podcast/resilience-in-action/id1506828506)
+* [Google SRE Prodcast](https://sre.google/prodcast)
+* [o11y Observability Podcast](https://www.honeycomb.io/usecase/o11ycast/ )
+* [On Call Nightmares (retired)](https://podcasts.apple.com/us/podcast/on-call-nightmares-podcast/id1447430839)
+* [Making of the SRE Omelette](https://open.spotify.com/show/1KxLVUduNdDRAiOw8BB32J)
+
+
