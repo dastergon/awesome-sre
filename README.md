@@ -32,7 +32,7 @@ Contributions are always welcome!
 - [Conferences & Meetups](#conferences--meetups)
 - [Twitter](#twitter)
 - [SRE Tools](#sre-tools)
-- [SRE Podcasts](#podcast)
+- [SRE Podcasts](#podcasts)
 
 ## Culture
 * [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
@@ -542,7 +542,7 @@ Contributions are always welcome!
 * [SRE cheat sheet](https://github.com/shibumi/SRE-cheat-sheet) - A cheat sheet for Site Reliability Engineering principles and numbers
 * [SRE Capability Map](https://www.cruform.com/sre-capability-map/) - Overview of all things SRE
 
-## Podcast
+## Podcasts
 * [Blameless / Resilience in Action](https://podcasts.apple.com/us/podcast/resilience-in-action/id1506828506)
 * [Google SRE Prodcast](https://sre.google/prodcast)
 * [o11y Observability Podcast](https://www.honeycomb.io/usecase/o11ycast/ )
