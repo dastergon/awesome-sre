@@ -1,0 +1,31 @@
+name: Lychee-Checker
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"
+
+jobs:
+  linkChecker:
+    name: Lychee Link Checker
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Check Links
+        id: lychee
+        uses: lycheeverse/lychee-action@v1.0.6
+        with:
+          args: --verbose --max-concurrency 32 --timeout 120 --no-progress *.md
+
+      - name: Create Issue From File
+        if: ${{ steps.lychee.outputs.exit_code != 0 }}
+        uses: peter-evans/create-issue-from-file@v2
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
+
+      - name: Fail if there were link errors
+        if: ${{ steps.lychee.outputs.exit_code != 0 }}
+        run: exit ${{ steps.lychee.outputs.exit_code }}
