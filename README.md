@@ -13,25 +13,26 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 Contributions are always welcome!
 
 ## Contents
-  - [Culture](#culture)
-  - [Education](#education)
-  - [Books](#books)
-  - [Hiring](#hiring)
-  - [Reliability](#reliability)
-  - [Monitoring & Observability & Alerting](#monitoring--observability--alerting)
-  - [On-Call](#on-call)
-  - [Post-Mortem](#post-mortem)
-  - [Capacity Planning](#capacity-planning)
-  - [Service Level Agreement](#service-level-agreement)
-  - [Performance](#performance)
-  - [Programming](#programming)
-  - [Misc Articles](#misc-articles)
-  - [Real-time Messaging](#real-time-messaging)
-  - [Blogs](#blogs)
-  - [Newsletters](#newsletters)
-  - [Conferences & Meetups](#conferences--meetups)
-  - [Twitter](#twitter)
-  - [SRE Tools](#sre-tools)
+- [Culture](#culture)
+- [Education](#education)
+- [Books](#books)
+- [Hiring](#hiring)
+- [Reliability](#reliability)
+- [Monitoring & Observability & Alerting](#monitoring--observability--alerting)
+- [On-Call](#on-call)
+- [Post-Mortem](#post-mortem)
+- [Capacity Planning](#capacity-planning)
+- [Service Level Agreement](#service-level-agreement)
+- [Performance](#performance)
+- [Programming](#programming)
+- [Misc Articles](#misc-articles)
+- [Real-time Messaging](#real-time-messaging)
+- [Blogs](#blogs)
+- [Newsletters](#newsletters)
+- [Conferences & Meetups](#conferences--meetups)
+- [Twitter](#twitter)
+- [SRE Tools](#sre-tools)
+- [SRE Podcasts](#podcasts)
 
 ## Culture
 * [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
@@ -540,3 +541,10 @@ Contributions are always welcome!
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
 * [SRE cheat sheet](https://github.com/shibumi/SRE-cheat-sheet) - A cheat sheet for Site Reliability Engineering principles and numbers
 * [SRE Capability Map](https://www.cruform.com/sre-capability-map/) - Overview of all things SRE
+
+## Podcasts
+* [Blameless / Resilience in Action](https://podcasts.apple.com/us/podcast/resilience-in-action/id1506828506)
+* [Google SRE Prodcast](https://sre.google/prodcast)
+* [o11y Observability Podcast](https://www.honeycomb.io/usecase/o11ycast/ )
+* [On Call Nightmares (retired)](https://podcasts.apple.com/us/podcast/on-call-nightmares-podcast/id1447430839)
+* [Making of the SRE Omelette](https://open.spotify.com/show/1KxLVUduNdDRAiOw8BB32J)
