@@ -29,7 +29,7 @@ Contributions are always welcome!
 - [Real-time Messaging](#real-time-messaging)
 - [Blogs](#blogs)
 - [Newsletters](#newsletters)
-- [Conferences & Meetups](#conferences--meetups)
+- [Conferences & Meetups](#conferences-meetups)
 - [Twitter](#twitter)
 - [SRE Tools](#sre-tools)
 - [SRE Podcasts](#podcasts)
