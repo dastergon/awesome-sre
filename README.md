@@ -516,7 +516,8 @@ Contributions are always welcome!
 * [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
 * [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
 * [ChaosEngineering.news](https://chaosengineering.news/) - Chaos Engineering newsletter. All things Chaos Engineering, directly to your inbox!
-
+* [Monitoring Weekly](https://monitoring.love/) - What's new in monitoring? Curated monitoring articles to your inbox each week.
+* [Observability news](https://o11y.news/) - Updates around observability (o11y) with a special focus on open source.
 
 ## Conferences & Meetups
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The Official SRE Conference.
