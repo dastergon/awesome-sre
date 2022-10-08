@@ -445,6 +445,7 @@ Contributions are always welcome!
 * [SLICK: Adopting SLOs for improved reliability](https://engineering.fb.com/2021/12/13/production-engineering/slick/)
 * [Calculating composite SLA](https://alexewerlof.medium.com/calculating-composite-sla-d855eaf2c655)
 * [Best practices for setting SLOs and SLIs for modern, complex systems](https://newrelic.com/blog/best-practices/best-practices-for-setting-slos-and-slis-for-modern-complex-systems)
+* [SLO Generator: Compute SLIs, SLOs, Error Budgets, and Burn rate exported into an SLO report](https://github.com/google/slo-generator)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.brendangregg.com/blog/2016-05-04/srecon2016-perf-checklists-for-sres.html)
