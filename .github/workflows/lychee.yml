@@ -10,17 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Check Links
         id: lychee
-        uses: lycheeverse/lychee-action@v1.0.6
+        uses: lycheeverse/lychee-action@v1.5.1
         with:
           args: --verbose --max-concurrency 32 --timeout 120 --no-progress *.md
 
       - name: Create Issue From File
         if: ${{ steps.lychee.outputs.exit_code != 0 }}
-        uses: peter-evans/create-issue-from-file@v2
+        uses: peter-evans/create-issue-from-file@v4
         with:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
