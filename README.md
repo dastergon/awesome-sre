@@ -518,6 +518,7 @@ Contributions are always welcome!
 * [ChaosEngineering.news](https://chaosengineering.news/) - Chaos Engineering newsletter. All things Chaos Engineering, directly to your inbox!
 * [Monitoring Weekly](https://monitoring.love/) - What's new in monitoring? Curated monitoring articles to your inbox each week.
 * [Observability news](https://o11y.news/) - Updates around observability (o11y) with a special focus on open source.
+* [DevOps'ish](https://devopsish.com/) - Cloud Native, DevOps, Open Source, industry news, culture, and the ‘ish between.
 
 ## Conferences & Meetups
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The Official SRE Conference.
