@@ -281,6 +281,8 @@ Contributions are always welcome!
 * [Instrumentation: Worst case performance matters](https://honeycomb.io/blog/2017/01/instrumentation-worst-case-performance-matters/)
 * [Instrumentation: What does 'uptime' mean?](https://honeycomb.io/blog/2017/01/instrumentation-what-does-uptime-mean/)
 * [Incidents + Outages at CircleCI: Our Playbook and What We’ve Learned](https://circleci.com/blog/incidents-outages-at-circleci-our-playbook-and-what-we-ve-learned/)
+* [Solving Metrics at scale with VictoriaMetrics](https://youtu.be/QgLMztnj7-8)
+* [Cardinality explorer](https://victoriametrics.com/blog/cardinality-explorer/)
 * [An introduction to monitoring and alerting with timeseries at scale, with Prometheus](https://www.youtube.com/watch?v=gNmWzkGViAY)
 * [Detecting outliers and anomalies in realtime at Datadog](https://www.youtube.com/watch?v=mG4ZpEhRKHA)
 * [How to Monitor the SRE Golden Signals](https://medium.com/devopslinks/how-to-monitor-the-sre-golden-signals-1391cadc7524)
@@ -509,6 +511,7 @@ Contributions are always welcome!
 * [Rootly Blog](https://www.rootly.io/blog) - Incident management best practices and guides.
 * [incident.io Blog](https://www.incident.io/blog) - Guides, advice and resources on incident management and response.
 * [Logit.io Blog](https://logit.io/blog) - Resources on log management, SRE and devOps.
+* [VictoriaMetrics Blog](https://victoriametrics.com/blog/) - Technical articles about monitoring and observability.
 
 ## Newsletters
 * [DevOpsLinks](https://faun.dev) - A weekly newsletter about SRE, SysAdmin and DevOps news, tools, tutorials and opinions.
