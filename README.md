@@ -189,6 +189,7 @@ Contributions are always welcome!
 * [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/)
 * [Four Steps to Creating Effective Game Day Tests](https://shopify.engineering/four-steps-creating-effective-game-day-tests)
 * [The Linux Programming Interface](https://nostarch.com/tlpi)
+* [Designing Data-Intensive Applications](https://dataintensive.net/)
 
 ## Hiring
 * [SRE Hiring](https://www.usenix.org/conference/srecon15/program/presentation/fong)
