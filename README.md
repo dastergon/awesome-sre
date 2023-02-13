@@ -451,6 +451,7 @@ Contributions are always welcome!
 * [South Bay SRE Meetup - Netflix Cloud Performance Team](https://youtu.be/uQ0flQOtQEA)
 * [Software Performance Analysis Guided By SLOs](https://medium.com/dm03514-tech-blog/sre-performance-analysis-tuning-methodology-using-a-simple-http-webserver-in-go-d475460f27ca)
 * [A framework for pragmatic performance engineering](https://mterwill.com/posts/framework-for-performance-engineering/)
+* [Bencher a suite of continuous benchmarking tools designed to catch performance regressions in CI](https://bencher.dev/)
 
 ## Programming
 * [Go Language for Ops and Site Reliability Engineering](http://www.oreilly.com/pub/e/2712)
