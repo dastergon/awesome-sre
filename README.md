@@ -161,6 +161,7 @@ Contributions are always welcome!
 * [Training Site Reliability Engineers: What Your Organization Needs to Create a Learning Program](https://landing.google.com/sre/resources/practicesandprocesses/training-site-reliability-engineers)
 * [SRE Classroom: Distributed PubSub workshop](https://landing.google.com/sre/resources/practicesandprocesses/sre-classroom/)
 * [School of SRE: Curriculum for onboarding non-traditional hires and new grads](https://linkedin.github.io/school-of-sre/)
+* [Statistics for Engineers, SREcon22 EMEA](https://www.youtube.com/watch?v=awrMqCXZunc)
 
 ## Books
 * [Practical Linux Infrastructure](https://link.springer.com/book/10.1007/978-1-4842-0511-2)
