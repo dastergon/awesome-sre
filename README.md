@@ -509,6 +509,7 @@ Contributions are always welcome!
 * [Rootly Blog](https://www.rootly.io/blog) - Incident management best practices and guides.
 * [incident.io Blog](https://www.incident.io/blog) - Guides, advice and resources on incident management and response.
 * [Logit.io Blog](https://logit.io/blog) - Resources on log management, SRE and devOps.
+* [Last9 Blog](https://last9.io/blog) - Blog Posts About SRE, Observability and Reliability.
 
 ## Newsletters
 * [DevOpsLinks](https://faun.dev) - A weekly newsletter about SRE, SysAdmin and DevOps news, tools, tutorials and opinions.
@@ -518,6 +519,7 @@ Contributions are always welcome!
 * [ChaosEngineering.news](https://chaosengineering.news/) - Chaos Engineering newsletter. All things Chaos Engineering, directly to your inbox!
 * [Monitoring Weekly](https://monitoring.love/) - What's new in monitoring? Curated monitoring articles to your inbox each week.
 * [Observability news](https://o11y.news/) - Updates around observability (o11y) with a special focus on open source.
+* [SRE Stories](https://srestories.dev) - Stories of SRE people for SRE people
 
 ## Conferences & Meetups
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The Official SRE Conference.
