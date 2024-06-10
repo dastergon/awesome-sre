@@ -475,7 +475,7 @@ Contributions are always welcome!
 * [Site Reliability Engineering: 4 Things to Know](https://www.networkcomputing.com/data-centers/site-reliability-engineering-4-things-know/888724300)
 * [Looking for SRE Success? Then Find the Intrapreneurs!](https://www.linkedin.com/pulse/looking-sre-success-find-intrapreneurs-josh-gilliland/)
 * [What Team Structure is Right for DevOps to Flourish?](http://web.devopstopologies.com/)
-* [What are the key roles in the DevOps Team?](https://www.scaler.com/blog/devops-engineer-roles-and-responsibilities/#key-roles-in-a-devops-team)
+* [What are the key roles in the DevOps?](https://www.scaler.com/blog/devops-engineer-roles-and-responsibilities/#key-roles-in-a-devops-team)
 * [Injured on Vacation? Applying Principles from Site Reliability Engineering to a Travel Emergency](https://www.sidewalksafari.com/2018/12/sre-in-a-travel-emergency.html)
 * [Building blameless working environment](https://sobolevn.me/2018/12/blameless-environment)
 * [SRE Adoption Report](https://techbeacon.com/devops/how-accenture-retrofitted-site-reliability-engineering)
