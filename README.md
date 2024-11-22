@@ -495,7 +495,7 @@ Contributions are always welcome!
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) - Highly Technical Blog Posts About Systems Internals, Performance and SRE.
 * [Everything Sysadmin](http://everythingsysadmin.com/) - Blog Posts About SysAdmin/DevOps/SRE by Tom Limoncelli.
 * [High Scalability](http://highscalability.com/) - Technical Blog Posts About Systems Architecture.
-* [rachelbythebay](https://rachelbythebay.com/w/) - Techincal Blog Posts.
+* [rachelbythebay](https://rachelbythebay.com/w/) - Technical Blog Posts.
 * [Susan J. Fowler](http://www.susanjfowler.com/blog/) - Various blog posts about SRE, Software Engineering and Microservices.
 * [SysAdvent](https://sysadvent.blogspot.com) - One article for each day of December, ending on the 25th article.
 * [Stephen Thorne's Blog](https://medium.com/@jerub) - Blog Posts About SRE
