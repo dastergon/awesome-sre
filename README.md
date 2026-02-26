@@ -543,6 +543,7 @@ Contributions are always welcome!
 ## SRE Tools
 * [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
+* [PageGuard](https://pageguard.org) - Free all-in-one website health scanner covering SEO, performance, accessibility, and best practices, with AI-powered action plans and an open REST API
 * [SRE cheat sheet](https://github.com/shibumi/SRE-cheat-sheet) - A cheat sheet for Site Reliability Engineering principles and numbers
 
 ## Podcasts
