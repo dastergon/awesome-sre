@@ -542,6 +542,7 @@ Contributions are always welcome!
 
 ## SRE Tools
 * [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
+* [API Status Check](https://apistatuscheck.com) - Centralized database tracking API & service status pages for 1,000+ services to help SREs monitor external dependencies
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
 * [SRE cheat sheet](https://github.com/shibumi/SRE-cheat-sheet) - A cheat sheet for Site Reliability Engineering principles and numbers
 
