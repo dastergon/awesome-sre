@@ -302,7 +302,7 @@ Contributions are always welcome!
 * [Elastic Observability in SRE and Incident Response](https://www.elastic.co/blog/elastic-observability-sre-incident-response)
 * [Error Budget Policy - Part 1 - Adoption at Expedia Group](https://medium.com/expedia-group-tech/error-budget-policy-adoption-at-expedia-group-7d80d41c4a8b)
 * [Error Budget Policy - Part 2 - Practices at Expedia Group](https://medium.com/expedia-group-tech/error-budget-policies-in-practice-4c98f56a28c1)
-
+* [AgentWatch](https://github.com/nicofains1/agentwatch) - Multi-agent observability library with cascade failure detection, heartbeat monitoring, and forensic replay.
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
 * [Inside Atlassian: how our site reliability engineers do incident management](https://www.atlassian.com/blog/it-teams/inside-atlassian-site-reliability-engineers-incident-management)
