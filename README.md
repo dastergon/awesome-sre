@@ -4,6 +4,7 @@
 
 A curated list of awesome [Site Reliability](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre) and [Production](https://www.usenix.org/conference/srecon15/program/presentation/canahuati) Engineering resources.
 
+- [ReleaseRun](releaserun.com) — ReleaseRun — tracks software releases, dependency EOL, and version health for SRE teams — free browser-based tools for K8s deprecation checking, dependency audits, and release monitoring
 #### What is Site Reliability Engineering?
 > "Fundamentally, it's what happens when you ask a software engineer to design an operations function." - Ben Treynor Sloss, VP Google Engineering, founder of Google SRE
 
