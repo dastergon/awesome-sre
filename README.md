@@ -302,6 +302,7 @@ Contributions are always welcome!
 * [Elastic Observability in SRE and Incident Response](https://www.elastic.co/blog/elastic-observability-sre-incident-response)
 * [Error Budget Policy - Part 1 - Adoption at Expedia Group](https://medium.com/expedia-group-tech/error-budget-policy-adoption-at-expedia-group-7d80d41c4a8b)
 * [Error Budget Policy - Part 2 - Practices at Expedia Group](https://medium.com/expedia-group-tech/error-budget-policies-in-practice-4c98f56a28c1)
+* [Why uptime and synthetic monitoring still matter next to APM](https://www.exemplar.dev/blog/synthetic-monitoring-vs-apm)
 
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
@@ -359,6 +360,10 @@ Contributions are always welcome!
 * [Elephant in the Blameless War Room: Accountability](https://www.blameless.com/incident-response/elephant-in-the-blameless-war-room-accountability)
 * [Naming names in incident writeups](https://surfingcomplexity.blog/2021/05/22/naming-names-in-incident-writeups/)
 * [Building On-Call Culture at GitHub](https://github.blog/2021-01-06-building-on-call-culture-at-github/)
+* [SOC 2, incident communication, and external status visibility](https://www.exemplar.dev/blog/soc2-incident-communication)
+* [Status pages, trust, and the limits of a green dashboard](https://www.exemplar.dev/blog/status-pages-trust-and-signal)
+* [Public status page guide for SaaS teams selling to enterprise](https://www.exemplar.dev/blog/public-status-page-enterprise-saas)
+* [Why status page aggregators matter for engineering teams](https://www.exemplar.dev/blog/status-page-aggregators-engineering-teams)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
@@ -509,6 +514,7 @@ Contributions are always welcome!
 * [Rootly Blog](https://www.rootly.io/blog) - Incident management best practices and guides.
 * [incident.io Blog](https://www.incident.io/blog) - Guides, advice and resources on incident management and response.
 * [Logit.io Blog](https://logit.io/blog) - Resources on log management, SRE and devOps.
+* [Exemplar Blog](https://www.exemplar.dev/blog) - Reliability, synthetic monitoring, status pages, and incident communication.
 
 ## Newsletters
 * [DevOpsLinks](https://faun.dev) - A weekly newsletter about SRE, SysAdmin and DevOps news, tools, tutorials and opinions.
