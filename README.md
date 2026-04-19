@@ -541,6 +541,8 @@ Contributions are always welcome!
 * [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
 
 ## SRE Tools
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 * [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
 * [SRE cheat sheet](https://github.com/shibumi/SRE-cheat-sheet) - A cheat sheet for Site Reliability Engineering principles and numbers
