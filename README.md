@@ -541,7 +541,9 @@ Contributions are always welcome!
 * [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
 
 ## SRE Tools
+
 * [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
+* [ci-doctor](https://github.com/depmedicdev-byte/ci-doctor) - Free CLI that audits CI workflows (GitHub Actions, GitLab, Bitbucket, Azure, CircleCI) for cost waste, security gaps, and reliability bugs. Useful for SRE teams trying to cap CI spend.
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
 * [SRE cheat sheet](https://github.com/shibumi/SRE-cheat-sheet) - A cheat sheet for Site Reliability Engineering principles and numbers
 
