@@ -551,3 +551,8 @@ Contributions are always welcome!
 * [o11y Observability Podcast](https://www.honeycomb.io/usecase/o11ycast/ )
 * [On Call Nightmares (retired)](https://podcasts.apple.com/us/podcast/on-call-nightmares-podcast/id1447430839)
 * [Making of the SRE Omelette](https://open.spotify.com/show/1KxLVUduNdDRAiOw8BB32J)
+
+
+## CI/CD
+
+* [ci-doctor](https://github.com/depmedicdev-byte/ci-doctor) - Free CLI that audits GitHub Actions workflows for cost waste and security gaps. Useful for SRE teams trying to cap CI spend.
