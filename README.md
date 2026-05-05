@@ -509,6 +509,7 @@ Contributions are always welcome!
 * [Rootly Blog](https://www.rootly.io/blog) - Incident management best practices and guides.
 * [incident.io Blog](https://www.incident.io/blog) - Guides, advice and resources on incident management and response.
 * [Logit.io Blog](https://logit.io/blog) - Resources on log management, SRE and devOps.
+* [Terraform Academy SRE Pro Tips](https://www.terraformacademy.app/protips/?cat=sre-pro-tips) - Pro tips for SREs working with Terraform and infrastructure as code. Covers drift detection, state hygiene, blast radius control, module design for on call engineers, and reliability patterns.
 
 ## Newsletters
 * [DevOpsLinks](https://faun.dev) - A weekly newsletter about SRE, SysAdmin and DevOps news, tools, tutorials and opinions.
