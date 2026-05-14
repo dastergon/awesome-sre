@@ -19,6 +19,7 @@ Contributions are always welcome!
 - [Hiring](#hiring)
 - [Reliability](#reliability)
 - [Monitoring & Observability & Alerting](#monitoring--observability--alerting)
+- [Grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform.
 - [On-Call](#on-call)
 - [Post-Mortem](#post-mortem)
 - [Capacity Planning](#capacity-planning)
