@@ -544,6 +544,7 @@ Contributions are always welcome!
 * [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
 * [SRE cheat sheet](https://github.com/shibumi/SRE-cheat-sheet) - A cheat sheet for Site Reliability Engineering principles and numbers
+* [DeployDiff](https://github.com/Coding-Dev-Tools/deploydiff) - Preview infrastructure changes with human-readable diffs, cost impact estimation, and rollback commands before deploying. Supports Terraform, CloudFormation, and Pulumi.
 
 ## Podcasts
 * [Blameless / Resilience in Action](https://podcasts.apple.com/us/podcast/resilience-in-action/id1506828506)
