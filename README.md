@@ -544,6 +544,7 @@ Contributions are always welcome!
 * [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
 * [SRE cheat sheet](https://github.com/shibumi/SRE-cheat-sheet) - A cheat sheet for Site Reliability Engineering principles and numbers
+* [platform-skills](https://github.com/nitinjain999/platform-skills) - Field handbook for SRE and platform engineers with evidence-first troubleshooting, runbook generation, SLO review, and chaos pre-flight patterns. Works as a Claude, Codex, Cursor, and Copilot plugin.
 
 ## Podcasts
 * [Blameless / Resilience in Action](https://podcasts.apple.com/us/podcast/resilience-in-action/id1506828506)
