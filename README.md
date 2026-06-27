@@ -199,6 +199,7 @@ Contributions are always welcome!
 * [Engineering Manager - Site Reliability Engineering Interview Preparation](https://danrl.com/blog/srm)
 
 ## Reliability
+* [Tombstone](https://github.com/sairam0424/Tombstone) - Self-hosted feature flag platform with circuit-breaker auto-rollback on SLO breach, blast-radius scoring, and causal incident correlation ("What Changed?" identifies which flag caused a production incident). MIT.
 * [The Realities of the Job of Delivering Reliability](https://www.usenix.org/conference/srecon16/program/presentation/kroll)
 * [Fail at Scale by Ben Maurer](http://queue.acm.org/detail.cfm?id=2839461)
 * [Embracing Failure: Fault-Injection and Service Reliability](https://www.youtube.com/watch?v=wrY7XoOnysg)
