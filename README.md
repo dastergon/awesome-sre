@@ -544,6 +544,7 @@ Contributions are always welcome!
 * [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
 * [SRE cheat sheet](https://github.com/shibumi/SRE-cheat-sheet) - A cheat sheet for Site Reliability Engineering principles and numbers
+* [backup-verify](https://github.com/fabiocicerchia/backup-verify) - Backup integrity verifier: runs restore probes in isolated containers on a schedule and reports metrics.
 
 ## Podcasts
 * [Blameless / Resilience in Action](https://podcasts.apple.com/us/podcast/resilience-in-action/id1506828506)
