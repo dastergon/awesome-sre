@@ -508,6 +508,7 @@ Contributions are always welcome!
 * [FireHydrant Blog](https://www.firehydrant.io/blog) - Posts about complex systems, incident response, and SRE best practices.
 * [Rootly Blog](https://www.rootly.io/blog) - Incident management best practices and guides.
 * [incident.io Blog](https://www.incident.io/blog) - Guides, advice and resources on incident management and response.
+* [Spike Blog](https://spike.sh/blog) - Incident response, on-call, and building reliable systems.
 * [Logit.io Blog](https://logit.io/blog) - Resources on log management, SRE and devOps.
 
 ## Newsletters
