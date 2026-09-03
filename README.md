@@ -541,6 +541,7 @@ Contributions are always welcome!
 * [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
 
 ## SRE Tools
+* [Hybrid RAG Issue & PR Assistant](https://github.com/Cagrik34/hybrid-rag-action) - Zero-cloud GitHub Action for automated CI issue and PR triage using SQLite FTS5 hybrid search and AST line citations.
 * [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
 * [SRE cheat sheet](https://github.com/shibumi/SRE-cheat-sheet) - A cheat sheet for Site Reliability Engineering principles and numbers
