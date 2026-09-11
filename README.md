@@ -359,6 +359,7 @@ Contributions are always welcome!
 * [Elephant in the Blameless War Room: Accountability](https://www.blameless.com/incident-response/elephant-in-the-blameless-war-room-accountability)
 * [Naming names in incident writeups](https://surfingcomplexity.blog/2021/05/22/naming-names-in-incident-writeups/)
 * [Building On-Call Culture at GitHub](https://github.blog/2021-01-06-building-on-call-culture-at-github/)
+- [Hive80 Toolkit](https://github.com/Hive80-lab/hive80-toolkit) - Incident response checklists, on-call rotation, and postmortem templates for small teams without a dedicated ops department
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
