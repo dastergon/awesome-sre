@@ -304,6 +304,7 @@ Contributions are always welcome!
 * [Error Budget Policy - Part 2 - Practices at Expedia Group](https://medium.com/expedia-group-tech/error-budget-policies-in-practice-4c98f56a28c1)
 
 ## On-Call
+- [Hive80 Lab Ops Starter Kit](https://hive80lab.gumroad.com/l/ops-starter-kit) - Free incident response runbooks, restore-test logs and on-call checklists for small IT/SRE teams.
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
 * [Inside Atlassian: how our site reliability engineers do incident management](https://www.atlassian.com/blog/it-teams/inside-atlassian-site-reliability-engineers-incident-management)
 * [Inside Atlassian: how IT & SRE use ChatOps to run incident management](https://www.atlassian.com/blog/2016/02/inside-atlassian-sre-use-chatops-run-incident-management)
