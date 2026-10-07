@@ -506,7 +506,7 @@ Contributions are always welcome!
 * [Resilience Roundup](https://ResilienceRoundup.com) - Weekly analysis of Resilience Engineering and Human Factors research designed for software systems
 * [Squadcast Blog](https://www.squadcast.com/blog) - Blog posts about SRE best practices, reliability, on-call and incident management.
 * [FireHydrant Blog](https://www.firehydrant.io/blog) - Posts about complex systems, incident response, and SRE best practices.
-* [Rootly Blog](https://www.rootly.io/blog) - Incident management best practices and guides.
+* [Rootly Blog](https://rootly.com/blog) - Incident management best practices and guides.
 * [incident.io Blog](https://www.incident.io/blog) - Guides, advice and resources on incident management and response.
 * [Logit.io Blog](https://logit.io/blog) - Resources on log management, SRE and devOps.
 
