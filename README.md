@@ -302,6 +302,7 @@ Contributions are always welcome!
 * [Elastic Observability in SRE and Incident Response](https://www.elastic.co/blog/elastic-observability-sre-incident-response)
 * [Error Budget Policy - Part 1 - Adoption at Expedia Group](https://medium.com/expedia-group-tech/error-budget-policy-adoption-at-expedia-group-7d80d41c4a8b)
 * [Error Budget Policy - Part 2 - Practices at Expedia Group](https://medium.com/expedia-group-tech/error-budget-policies-in-practice-4c98f56a28c1)
+* [We broke Kubernetes 19 ways and let an AI SRE investigate](https://www.aurorasre.ai/blog/aurora-lab-report-kubernetes-19-failures) - 19 injected Kubernetes faults, 38 graded investigations by an open source AI agent with read-only kubectl, every trace and miss published ([lab repo](https://github.com/Arvo-AI/aurora-lab))
 
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
