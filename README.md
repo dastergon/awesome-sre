@@ -266,6 +266,7 @@ Contributions are always welcome!
 * [How we’re building a production readiness review process at Grafana Labs](https://grafana.com/blog/2021/10/13/how-were-building-a-production-readiness-review-process-at-grafana-labs/)
 * [Resiliency Planning for High-Traffic Events](https://shopify.engineering/resiliency-planning-for-high-traffic-events)
 * [Using Fault Injection Testing to Improve DoorDash Reliability](https://doordash.engineering/2022/04/25/using-fault-injection-testing-to-improve-doordash-reliability/)
+* [Anatomy of a Payment](https://digbijoylabs.github.io/anatomy-of-a-payment/) - Interactive Apache-2.0 payment-rail workbench modeling idempotency, failure modes, and high-availability financial state transitions ([CC-BY-4.0 paper](https://doi.org/10.5281/zenodo.24444210)).
 
 ## Monitoring & Observability & Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
